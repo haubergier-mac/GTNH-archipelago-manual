@@ -2693,7 +2693,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter|",
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |good circuit| AND |LV emitter|",
       "victory": true
     },
     {

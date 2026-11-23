@@ -80,6 +80,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
+    
 
     # Add your code here to calculate which items to remove.
     #

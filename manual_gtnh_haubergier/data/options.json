@@ -32,20 +32,24 @@
         },
         "Include_The_Green_Revolution_quests":{
             "description": [
-                "Enable the green revolution quest tab, themed around cropsNH",
+              "Enable the green revolution quest tab, themed around cropsNH",
               "Might need to grind towards random crops if enabled",
               "CURRENTLY DOES NOTHING"
             ],
             "type": "Toggle",
             "default": false
         },
-        "Include_LV_Progression":{
+        "Last_tier_progression":{
             "description": [
-              "Enable all quests that can be obtained pre MV through normal means",
-              "Be prepared to not have a wiremill for 90% of LV"
+              "Enable all quests that can be obtained up to the specified tier",
+              "Only quests up to LV (1) are currently implemented",
+              "0: steam",
+              "1: LV",
+              "etc."
             ],
-            "type": "Toggle",
-            "default": false
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 14
         }
 
 

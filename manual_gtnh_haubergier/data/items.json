@@ -662,7 +662,7 @@
       "progression": true
     },
     {
-      "count": "7",
+      "count": 7,
       "name": "progressive armor",
       "category": [
         "base minecraft mechanics"
@@ -687,7 +687,7 @@
     },
     {
       "count": 1,
-      "name": "basic circuit board",
+      "name": "progressive circuit board",
       "category": [
         "Circuitry"
       ],
@@ -703,6 +703,14 @@
     },
     {
       "count": 1,
+      "name": "good circuit",
+      "category": [
+        "Circuitry"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "diodes",
       "category": [
         "Circuitry",
@@ -711,611 +719,562 @@
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV machine hull",
+      "count": 14,
+      "name": "progressive machine hull",
       "category": [
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV steam turbine",
-      "category": [
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV motor",
+      "count": 14,
+      "name": "progressive motor",
       "category": [
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV piston",
+      "count": 14,
+      "name": "progressive piston",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV pump",
+      "count": 14,
+      "name": "progressive pump",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV conveyor",
+      "count": 14,
+      "name": "progressive conveyor",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV robot arm",
+      "count": 14,
+      "name": "progressive robot arm",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV sensor",
+      "count": 14,
+      "name": "progressive sensor",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV emitter",
+      "count": 14,
+      "name": "progressive emitter",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV steam valve",
+      "count": 5,
+      "name": "progressive steam valve",
       "category": [
-        "LV_Progression",
         "electric components"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV assembler",
+      "count": 14,
+      "name": "progressive assembler",
       "category": [
-        "LV_Progression",
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive circuit assembler",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive mixer",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive laser engraver",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive cutting machine",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive compressor",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive autoclave",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive auto workbench",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive bending machine",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive forming press",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive forge hammer",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive extruder",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive lathe",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive wiremill",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive fluid solidifier",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive extractor",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive fluid extractor",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive centrifuge",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive electrolyser",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive electromagnetic separator",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive polarizer",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive chemical reactor",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive distillery",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive brewery",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive fermenter",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive electric furnace",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive electric oven",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive microwave",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive alloy smelter",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive fluid heater",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive arc furnace",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 4,
+      "name": "progressive seismic prospector",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "progressive miner",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "progressive pump (machine)",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive macerator",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive simple washer",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive ore washer",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive chemical bath",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive sifter",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive thermal centrifuge",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive canner",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive packager",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive unpackager",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive crop manager",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive crop breeder",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive seed generator",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive world accelerator",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive rock breaker",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive pollution scrubber",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive scanner",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive printer",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "progressive monster repellator",
+      "category": [
         "electric machines"
       ],
       "progression": true
     },
     {
       "count": 1,
-      "name": "LV circuit assembler",
+      "name": "jukebox",
       "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV mixer",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV laser engraver",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV cutting machine",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV compressor",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV autoclave",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV auto workbench",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV bending machine",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV forming press",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV forge hammer",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV extruder",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV lathe",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV wiremill",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV fluid solidifier",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV extractor",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV fluid extractor",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV centrifuge",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV electrolyser",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV electromagnetic separator",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV polarizer",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV chemical reactor",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV distillery",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV brewery",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV fermenter",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV electric furnace",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV electric oven",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV microwave",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV alloy smelter",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV fluid heater",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV arc furnace",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV seismic prospector",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV miner",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV pump (machine)",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV macerator",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV simple washer",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV ore washer",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV chemical bath",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV sifter",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV thermal centrifuge",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV canner",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV packager",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV unpackager",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV crop manager",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV crop breeder",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV seed generator",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV world accelerator",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV rock breaker",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV pollution scrubber",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV scanner",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV printer",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV monster repellator",
-      "category": [
-        "LV_Progression",
-        "electric machines"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV jukebox",
-      "category": [
-        "LV_Progression",
         "electric machines"
       ],
       "filler": true
     },
     {
-      "count": 1,
-      "name": "LV gas turbine",
+      "count": 3,
+      "name": "progressive steam turbine",
       "category": [
-        "LV_Progression",
         "electric machines"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV combustion generator",
+      "count": 5,
+      "name": "progressive gas turbine",
       "category": [
-        "LV_Progression",
         "electric machines"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV semifluid generator",
+      "count": 5,
+      "name": "progressive combustion generator",
       "category": [
-        "LV_Progression",
         "electric machines"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV acid generator",
+      "count": 5,
+      "name": "progressive semifluid generator",
       "category": [
-        "LV_Progression",
         "electric machines"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "LV advanced boiler",
+      "count": 5,
+      "name": "progressive acid generator",
       "category": [
-        "LV_Progression",
         "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "progressive advanced boiler",
+      "category": [
+        "electric machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive energy hatch",
+      "category": [
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 14,
+      "name": "progressive coils",
+      "category": [
+        "multiblocks"
       ],
       "progression": true
     },
@@ -1325,24 +1284,6 @@
       "category": [
         "LV_Progression",
         "electric machines",
-        "multiblocks"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "LV energy hatch",
-      "category": [
-        "LV_Progression",
-        "multiblocks"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cupronickel coils",
-      "category": [
-        "LV_Progression",
         "multiblocks"
       ],
       "progression": true
