@@ -70,6 +70,87 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+
+    tier = get_option_value(multiworld, player, "Last_tier_progression")
+
+    item_config["progressive machine hull"] = max(1, tier)
+    item_config["progressive motor"] = max(1, tier)
+    item_config["progressive piston"] = tier
+    item_config["progressive pump"] = tier
+    item_config["progressive conveyor"] = tier
+    item_config["progressive robot arm"] = tier
+    item_config["progressive sensor"] = tier
+    item_config["progressive emitter"] = tier
+    item_config["progressive steam valve"] = min(tier, 5) # max IV
+    item_config["progressive assembler"] = tier
+    item_config["progressive circuit assembler"] = tier
+    item_config["progressive mixer"] = tier
+    item_config["progressive laser engraver"] = tier
+    item_config["progressive cutting machine"] = tier
+    item_config["progressive compressor"] = tier
+    item_config["progressive autoclave"] = tier
+    item_config["progressive auto workbench"] = min(tier, 8)
+    item_config["progressive bending machine"] = tier
+    item_config["progressive forming press"] = tier
+    item_config["progressive forge hammer"] = tier
+    item_config["progressive extruder"] = tier
+    item_config["progressive lathe"] = tier
+    item_config["progressive wiremill"] = tier
+    item_config["progressive fluid solidifier"] = tier
+    item_config["progressive extractor"] = tier
+    item_config["progressive fluid extractor"] = tier
+    item_config["progressive centrifuge"] = tier
+    item_config["progressive electrolyser"] = tier
+    item_config["progressive electromagnetic separator"] = tier
+    item_config["progressive polarizer"] = tier
+    item_config["progressive chemical reactor"] = tier
+    item_config["progressive distillery"] = tier
+    item_config["progressive brewery"] = tier
+    item_config["progressive fermenter"] = tier
+    item_config["progressive electric furnace"] = tier
+    item_config["progressive electric oven"] = min(tier, 5)
+    item_config["progressive microwave"] = tier
+    item_config["progressive alloy smelter"] = tier
+    item_config["progressive fluid heater"] = tier
+    item_config["progressive arc furnace"] = tier
+    item_config["progressive seismic prospector"] = min(tier, 4)
+    item_config["progressive miner"] = min(tier, 3)
+    item_config["progressive pump (machine)"] = min(tier, 3)
+    item_config["progressive macerator"] = tier
+    item_config["progressive simple washer"] = tier
+    item_config["progressive ore washer"] = tier
+    item_config["progressive chemical bath"] = tier
+    item_config["progressive sifter"] = tier
+    item_config["progressive thermal centrifuge"] = tier
+    item_config["progressive canner"] = tier
+    item_config["progressive packager"] = tier
+    item_config["progressive unpackager"] = tier
+    item_config["progressive crop manager"] = tier
+    item_config["progressive crop breeder"] = tier
+    item_config["progressive seed generator"] = tier
+    item_config["progressive world accelerator"] = min(tier, 8)
+    item_config["progressive rock breaker"] = tier
+    item_config["progressive pollution scrubber"] = min(tier, 3)
+    item_config["progressive scanner"] = tier
+    item_config["progressive printer"] = min(tier, 8)
+    item_config["progressive monster repellator"] = min(tier, 8)
+    item_config["progressive steam turbine"] = max(1, min(tier, 3)) # LV-HV
+    item_config["progressive gas turbine"] = min(tier, 5)
+    item_config["progressive combustion generator"] = min(tier, 5)
+    item_config["progressive semifluid generator"] = min(tier, 5)
+    item_config["progressive acid generator"] = min(tier, 5)
+    item_config["progressive advanced boiler"] = min(tier, 3)
+    item_config["progressive energy hatch"] = tier
+
+
+    if tier > 4:
+        item_config["progressive coils"] = tier + 1 # extra HSS-S coil
+        if tier > 5:
+            item_config["progressive coils"] = tier + 2 # extra HSS-S and naquadah alloy coils
+    else:
+        item_config["progressive coils"] = tier
+
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -80,7 +161,8 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
-    
+
+    tier = get_option_value(multiworld, player, "Last_tier_progression")
 
     # Add your code here to calculate which items to remove.
     #

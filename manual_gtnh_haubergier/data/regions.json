@@ -101,7 +101,6 @@
   },
   "post extractor": {
     "connects_to": [
-      "rubber"
     ],
     "requires": "|steam extractor| AND |smeltery|"
   },
@@ -121,7 +120,7 @@
     "connects_to": [
       "LV start"
     ],
-    "requires": "|steam extractor| AND |nether|"
+    "requires": "|steam extractor|"
   },
   "pams cooking": {
     "connects_to": [],
@@ -135,11 +134,11 @@
   },
   "cropsNH LV": {
     "connects_to": [],
-    "requires": "|LV logic unlock|"
+    "requires": "{YamlCompare(Last_tier_progression >= 1)}"
   },
   "LV start": {
     "connects_to": [ "post EBF" ],
-    "requires": "|progressive motor:1| AND |electronic circuit| AND |progressive machine hull:1| AND |progressive steam turbine:1| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1| AND |LV logic unlock|"
+    "requires": "|progressive motor:1| AND |electronic circuit| AND |progressive machine hull:1| AND |progressive steam turbine:1| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1| AND {YamlCompare(Last_tier_progression >= 1)}"
   },
   "post EBF": {
     "connects_to": [],

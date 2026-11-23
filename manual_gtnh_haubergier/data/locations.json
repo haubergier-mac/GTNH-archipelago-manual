@@ -2060,7 +2060,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV piston| AND |LV lathe|"
+      "requires": "|progressive pump:1| AND |progressive piston:1| AND |progressive lathe:1|"
     },
     {
       "name": "Basic transport: items",
@@ -2068,7 +2068,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV lathe|"
+      "requires": "|progressive piston:1| AND |progressive lathe:1|"
     },
     {
       "name": "node upgrades",
@@ -2076,7 +2076,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV lathe| AND |LV cutting machine|"
+      "requires": "|progressive piston:1| AND |progressive lathe:1| AND |progressive cutting machine:1|"
     },
     {
       "name": "saving redstone",
@@ -2084,7 +2084,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV polarizer|"
+      "requires": "|progressive polarizer:1|"
     },
     {
       "name": "magnetize your rods",
@@ -2092,7 +2092,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV polarizer|"
+      "requires": "|progressive polarizer:1|"
     },
     {
       "name": "darn you, wire cutter!",
@@ -2100,7 +2100,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV wiremill|"
+      "requires": "|progressive wiremill:1|"
     },
     {
       "name": "EBF-time",
@@ -2157,7 +2157,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electric furnace|"
+      "requires": "|progressive electric furnace:1|"
     },
     {
       "name": "Hey dj, mix it!",
@@ -2165,7 +2165,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV mixer|"
+      "requires": "|progressive mixer:1| OR |steam blender|"
     },
     {
       "name": "Electrically separating dusts",
@@ -2173,7 +2173,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Gallium arsenide crystal",
@@ -2181,7 +2181,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Better gallium and arsenic sources",
@@ -2189,7 +2189,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Thermal centrifuge",
@@ -2197,7 +2197,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Diodes",
@@ -2205,7 +2205,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser| AND |diodes|"
+      "requires": "|progressive electrolyser:1| AND |diodes|"
     },
     {
       "name": "Cable diodes",
@@ -2213,7 +2213,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser| AND |diodes|"
+      "requires": "|progressive electrolyser:1| AND |diodes|"
     },
     {
       "name": "Quartzite veins",
@@ -2237,7 +2237,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV conveyor| AND |LV robot arm| AND |LV piston| AND |LV assembler|"
+      "requires": "|progressive conveyor:1| AND |progressive robot arm:1| AND |progressive piston:1| AND |progressive assembler:1|"
     },
     {
       "name": "You're gonna hate this #6",
@@ -2245,7 +2245,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV sensor|"
+      "requires": "|progressive sensor:1|"
     },
     {
       "name": "Auto mining",
@@ -2253,7 +2253,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV sensor| AND |LV miner|"
+      "requires": "|progressive sensor:1| AND |progressive miner:1|"
     },
     {
       "name": "Long distance item pipeline",
@@ -2261,7 +2261,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV sensor| AND |LV miner|"
+      "requires": "|progressive sensor:1| AND |progressive miner:1|"
     },
     {
       "name": "You're gonna hate this #5",
@@ -2269,7 +2269,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV emitter|"
+      "requires": "|progressive emitter:1|"
     },
     {
       "name": "Reading the grid",
@@ -2277,7 +2277,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV emitter| AND |LV sensor| AND |diodes| AND |LV fluid extractor| AND |LV pump|"
+      "requires": "|progressive emitter:1| AND |progressive sensor:1| AND |diodes| AND |progressive fluid extractor:1| AND |progressive pump:1|"
     },
     {
       "name": "Choices, choices",

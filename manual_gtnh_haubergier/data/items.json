@@ -705,7 +705,8 @@
       "count": 1,
       "name": "good circuit",
       "category": [
-        "Circuitry"
+        "Circuitry",
+        "LV_Progression"
       ],
       "progression": true
     },
@@ -719,7 +720,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive machine hull",
       "category": [
         "electric components"
@@ -727,7 +728,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive motor",
       "category": [
         "electric components"
@@ -735,7 +736,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive piston",
       "category": [
         "electric components"
@@ -743,7 +744,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive pump",
       "category": [
         "electric components"
@@ -751,7 +752,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive conveyor",
       "category": [
         "electric components"
@@ -759,7 +760,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive robot arm",
       "category": [
         "electric components"
@@ -767,7 +768,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive sensor",
       "category": [
         "electric components"
@@ -775,7 +776,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive emitter",
       "category": [
         "electric components"
@@ -783,7 +784,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 0,
       "name": "progressive steam valve",
       "category": [
         "electric components"
@@ -791,7 +792,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive assembler",
       "category": [
         "electric machines"
@@ -799,7 +800,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive circuit assembler",
       "category": [
         "electric machines"
@@ -807,7 +808,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive mixer",
       "category": [
         "electric machines"
@@ -815,7 +816,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive laser engraver",
       "category": [
         "electric machines"
@@ -823,7 +824,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive cutting machine",
       "category": [
         "electric machines"
@@ -831,7 +832,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive compressor",
       "category": [
         "electric machines"
@@ -839,7 +840,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive autoclave",
       "category": [
         "electric machines"
@@ -847,7 +848,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive auto workbench",
       "category": [
         "electric machines"
@@ -855,7 +856,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive bending machine",
       "category": [
         "electric machines"
@@ -863,7 +864,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive forming press",
       "category": [
         "electric machines"
@@ -871,7 +872,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive forge hammer",
       "category": [
         "electric machines"
@@ -879,7 +880,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive extruder",
       "category": [
         "electric machines"
@@ -887,7 +888,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive lathe",
       "category": [
         "electric machines"
@@ -895,7 +896,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive wiremill",
       "category": [
         "electric machines"
@@ -903,7 +904,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive fluid solidifier",
       "category": [
         "electric machines"
@@ -911,7 +912,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive extractor",
       "category": [
         "electric machines"
@@ -919,7 +920,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive fluid extractor",
       "category": [
         "electric machines"
@@ -927,7 +928,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive centrifuge",
       "category": [
         "electric machines"
@@ -935,7 +936,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive electrolyser",
       "category": [
         "electric machines"
@@ -943,7 +944,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive electromagnetic separator",
       "category": [
         "electric machines"
@@ -951,7 +952,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive polarizer",
       "category": [
         "electric machines"
@@ -959,7 +960,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive chemical reactor",
       "category": [
         "electric machines"
@@ -967,7 +968,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive distillery",
       "category": [
         "electric machines"
@@ -975,7 +976,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive brewery",
       "category": [
         "electric machines"
@@ -983,7 +984,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive fermenter",
       "category": [
         "electric machines"
@@ -991,7 +992,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive electric furnace",
       "category": [
         "electric machines"
@@ -999,7 +1000,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive electric oven",
       "category": [
         "electric machines"
@@ -1007,7 +1008,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive microwave",
       "category": [
         "electric machines"
@@ -1015,7 +1016,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive alloy smelter",
       "category": [
         "electric machines"
@@ -1023,7 +1024,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive fluid heater",
       "category": [
         "electric machines"
@@ -1031,7 +1032,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive arc furnace",
       "category": [
         "electric machines"
@@ -1039,7 +1040,7 @@
       "progression": true
     },
     {
-      "count": 4,
+      "count": 0,
       "name": "progressive seismic prospector",
       "category": [
         "electric machines"
@@ -1047,7 +1048,7 @@
       "progression": true
     },
     {
-      "count": 3,
+      "count": 0,
       "name": "progressive miner",
       "category": [
         "electric machines"
@@ -1055,7 +1056,7 @@
       "progression": true
     },
     {
-      "count": 3,
+      "count": 0,
       "name": "progressive pump (machine)",
       "category": [
         "electric machines"
@@ -1063,7 +1064,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive macerator",
       "category": [
         "electric machines"
@@ -1071,7 +1072,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive simple washer",
       "category": [
         "electric machines"
@@ -1079,7 +1080,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive ore washer",
       "category": [
         "electric machines"
@@ -1087,7 +1088,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive chemical bath",
       "category": [
         "electric machines"
@@ -1095,7 +1096,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive sifter",
       "category": [
         "electric machines"
@@ -1103,7 +1104,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive thermal centrifuge",
       "category": [
         "electric machines"
@@ -1111,7 +1112,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive canner",
       "category": [
         "electric machines"
@@ -1119,7 +1120,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive packager",
       "category": [
         "electric machines"
@@ -1127,7 +1128,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive unpackager",
       "category": [
         "electric machines"
@@ -1135,7 +1136,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive crop manager",
       "category": [
         "electric machines"
@@ -1143,7 +1144,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive crop breeder",
       "category": [
         "electric machines"
@@ -1151,7 +1152,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive seed generator",
       "category": [
         "electric machines"
@@ -1159,7 +1160,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive world accelerator",
       "category": [
         "electric machines"
@@ -1167,7 +1168,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive rock breaker",
       "category": [
         "electric machines"
@@ -1175,7 +1176,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive pollution scrubber",
       "category": [
         "electric machines"
@@ -1183,7 +1184,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive scanner",
       "category": [
         "electric machines"
@@ -1191,7 +1192,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive printer",
       "category": [
         "electric machines"
@@ -1199,7 +1200,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 0,
       "name": "progressive monster repellator",
       "category": [
         "electric machines"
@@ -1215,7 +1216,7 @@
       "filler": true
     },
     {
-      "count": 3,
+      "count": 0,
       "name": "progressive steam turbine",
       "category": [
         "electric machines"
@@ -1223,7 +1224,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 0,
       "name": "progressive gas turbine",
       "category": [
         "electric machines"
@@ -1231,7 +1232,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 0,
       "name": "progressive combustion generator",
       "category": [
         "electric machines"
@@ -1239,7 +1240,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 0,
       "name": "progressive semifluid generator",
       "category": [
         "electric machines"
@@ -1247,7 +1248,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 0,
       "name": "progressive acid generator",
       "category": [
         "electric machines"
@@ -1255,7 +1256,7 @@
       "progression": true
     },
     {
-      "count": 3,
+      "count": 0,
       "name": "progressive advanced boiler",
       "category": [
         "electric machines"
@@ -1263,7 +1264,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive energy hatch",
       "category": [
         "multiblocks"
@@ -1271,7 +1272,7 @@
       "progression": true
     },
     {
-      "count": 14,
+      "count": 0,
       "name": "progressive coils",
       "category": [
         "multiblocks"
