@@ -51,69 +51,93 @@
       "useful": true
     },
     {
-      "count": 25,
+      "count": 1,
+      "name": "Coins x15",
+      "category": [
+        "/give items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Coins x10",
+      "category": [
+        "/give items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Coins x5",
+      "category": [
+        "/give items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
       "name": "Lootbag (basic stone age) x1",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 20,
+      "count": 1,
       "name": "Lootbag (Steam age) x1",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 15,
+      "count": 1,
       "name": "Lootbag (LV) x1",
       "category": [
         "/give items",
         "LV_Progression"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 2,
+      "count": 1,
       "name": "Coal coke x32",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 4,
+      "count": 1,
       "name": "Bronze ingot x32",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 2,
+      "count": 1,
       "name": "Iron ingot x16",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 2,
+      "count": 1,
       "name": "Steel ingot x16",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
-      "count": 2,
+      "count": 1,
       "name": "Rubber bar x32",
       "category": [
         "/give items"
       ],
-      "useful": true
+      "filler": true
     },
     {
       "count": 1,
@@ -690,7 +714,7 @@
       "count": 1,
       "name": "LV machine hull",
       "category": [
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -698,7 +722,7 @@
       "count": 1,
       "name": "LV steam turbine",
       "category": [
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -706,7 +730,7 @@
       "count": 1,
       "name": "LV motor",
       "category": [
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -715,7 +739,7 @@
       "name": "LV piston",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -724,7 +748,7 @@
       "name": "LV pump",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -733,7 +757,7 @@
       "name": "LV conveyor",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -742,7 +766,7 @@
       "name": "LV robot arm",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -751,7 +775,7 @@
       "name": "LV sensor",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -760,7 +784,7 @@
       "name": "LV emitter",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -769,7 +793,7 @@
       "name": "LV steam valve",
       "category": [
         "LV_Progression",
-        "LV components"
+        "electric components"
       ],
       "progression": true
     },
@@ -778,7 +802,7 @@
       "name": "LV assembler",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -787,7 +811,7 @@
       "name": "LV circuit assembler",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -796,7 +820,7 @@
       "name": "LV mixer",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -805,7 +829,7 @@
       "name": "LV laser engraver",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -814,7 +838,7 @@
       "name": "LV cutting machine",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -823,7 +847,7 @@
       "name": "LV compressor",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -832,7 +856,7 @@
       "name": "LV autoclave",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -841,7 +865,7 @@
       "name": "LV auto workbench",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -850,7 +874,7 @@
       "name": "LV bending machine",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -859,7 +883,7 @@
       "name": "LV forming press",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -868,7 +892,7 @@
       "name": "LV forge hammer",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -877,7 +901,7 @@
       "name": "LV extruder",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -886,7 +910,7 @@
       "name": "LV lathe",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -895,7 +919,7 @@
       "name": "LV wiremill",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -904,7 +928,7 @@
       "name": "LV fluid solidifier",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -913,7 +937,7 @@
       "name": "LV extractor",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -922,7 +946,7 @@
       "name": "LV fluid extractor",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -931,7 +955,7 @@
       "name": "LV centrifuge",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -940,7 +964,7 @@
       "name": "LV electrolyser",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -949,7 +973,7 @@
       "name": "LV electromagnetic separator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -958,7 +982,7 @@
       "name": "LV polarizer",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -967,7 +991,7 @@
       "name": "LV chemical reactor",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -976,7 +1000,7 @@
       "name": "LV distillery",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -985,7 +1009,7 @@
       "name": "LV brewery",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -994,7 +1018,7 @@
       "name": "LV fermenter",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1003,7 +1027,7 @@
       "name": "LV electric furnace",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1012,7 +1036,7 @@
       "name": "LV electric oven",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1021,7 +1045,7 @@
       "name": "LV microwave",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1030,7 +1054,7 @@
       "name": "LV alloy smelter",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1039,7 +1063,7 @@
       "name": "LV fluid heater",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1048,7 +1072,7 @@
       "name": "LV arc furnace",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1057,7 +1081,7 @@
       "name": "LV seismic prospector",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1066,7 +1090,7 @@
       "name": "LV miner",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1075,7 +1099,7 @@
       "name": "LV pump (machine)",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1084,7 +1108,7 @@
       "name": "LV macerator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1093,7 +1117,7 @@
       "name": "LV simple washer",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1102,7 +1126,7 @@
       "name": "LV ore washer",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1111,7 +1135,7 @@
       "name": "LV chemical bath",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1120,7 +1144,7 @@
       "name": "LV sifter",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1129,7 +1153,7 @@
       "name": "LV thermal centrifuge",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1138,7 +1162,7 @@
       "name": "LV canner",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1147,7 +1171,7 @@
       "name": "LV packager",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1156,7 +1180,7 @@
       "name": "LV unpackager",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1165,7 +1189,7 @@
       "name": "LV crop manager",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1174,7 +1198,7 @@
       "name": "LV crop breeder",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1183,7 +1207,7 @@
       "name": "LV seed generator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1192,7 +1216,7 @@
       "name": "LV world accelerator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1201,7 +1225,7 @@
       "name": "LV rock breaker",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1210,7 +1234,7 @@
       "name": "LV pollution scrubber",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1219,7 +1243,7 @@
       "name": "LV scanner",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1228,7 +1252,7 @@
       "name": "LV printer",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1237,7 +1261,7 @@
       "name": "LV monster repellator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1246,7 +1270,7 @@
       "name": "LV jukebox",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "filler": true
     },
@@ -1255,7 +1279,7 @@
       "name": "LV gas turbine",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1264,7 +1288,7 @@
       "name": "LV combustion generator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1273,7 +1297,7 @@
       "name": "LV semifluid generator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1282,7 +1306,7 @@
       "name": "LV acid generator",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1291,7 +1315,7 @@
       "name": "LV advanced boiler",
       "category": [
         "LV_Progression",
-        "LV machines"
+        "electric machines"
       ],
       "progression": true
     },
@@ -1300,7 +1324,7 @@
       "name": "EBF",
       "category": [
         "LV_Progression",
-        "LV machines",
+        "electric machines",
         "multiblocks"
       ],
       "progression": true

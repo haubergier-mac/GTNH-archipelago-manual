@@ -102,6 +102,60 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    itemNamesToEntirelyRemove: list[str] = ["Oops This Shouldn't Show Up"]
+
+    # List of filler items that should only show once. Currently obsolete.
+    junkOnce: list[str] = []
+    # List of items you want to include any amount of after the junkOnce has gone through.
+    junkMisc: list[str] = [
+        "Lootbag (basic stone age) x1",#1
+        "Lootbag (Steam age) x1",
+        "Lootbag (LV) x1",
+        "Coal coke x32",
+        "Bronze ingot x32",#5
+        "Iron ingot x16",
+        "Steel ingot x16",
+        "Rubber bar x32",
+        "Coins x15",
+        "Coins x10",#10
+        "Coins x5"
+    ]
+    # Corresponding to junkMisc, a list of weights.
+    junkMiscWeights: list[int] = [
+        20,#1
+        25,
+        0,
+        4,
+        4,#5
+        8,
+        4,
+        4,
+        40,
+        50,#10
+        30
+    ]
+
+    if (is_option_enabled(multiworld, player, "Include_LV_Progression")):
+        junkMiscWeights[2] = 20
+
+    # junkMiscReal is filled with one of the item for each weight it has. This is so that the randomness is weighted.
+    junkMiscReal = []
+    for indexx in range(0,len(junkMisc)):
+        for repeater in range(0,junkMiscWeights[indexx]):
+            junkMiscReal.append(junkMisc[indexx])
+    world.random.shuffle(junkMiscReal)
+    world.random.shuffle(junkOnce)
+    junkOnceCount = 0
+    for itemName in itemNamesToEntirelyRemove:
+        for i in item_pool.copy():
+            if (i.name == itemName):
+                remove_specific_item(item_pool, i)
+                #if (junkOnceCount < len(junkOnce)):
+                #    item_pool.append(world.create_item(junkOnce[junkOnceCount]))
+                #    junkOnceCount += 1
+                #else:
+                item_pool.append(world.create_item(world.random.choice(junkMiscReal)))
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

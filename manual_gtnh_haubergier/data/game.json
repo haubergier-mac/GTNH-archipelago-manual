@@ -2,7 +2,7 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "gtnh",
   "creator": "haubergier",
-  "filler_item_name": "Coins x15",
+  "filler_item_name": "Oops This Shouldn't Show Up",
   "starting_items": [],
   "death_link": true
 }
