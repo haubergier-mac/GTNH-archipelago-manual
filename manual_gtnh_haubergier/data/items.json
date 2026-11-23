@@ -1,0 +1,1327 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "LV logic unlock",
+      "category": [
+        "LV_Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "cropsNH logic unlock",
+      "category": [
+        "cropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "glider",
+      "category": [
+        "QOL items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "ore finder wand",
+      "category": [
+        "QOL items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "saddle",
+      "category": [
+        "QOL items",
+        "base minecraft mechanics"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "crop x64",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 25,
+      "name": "Lootbag (basic stone age) x1",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 20,
+      "name": "Lootbag (Steam age) x1",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 15,
+      "name": "Lootbag (LV) x1",
+      "category": [
+        "/give items",
+        "LV_Progression"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Coal coke x32",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 4,
+      "name": "Bronze ingot x32",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Iron ingot x16",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Steel ingot x16",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Rubber bar x32",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dezil's marshmallow x1",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Beef wellington x4",
+      "category": [
+        "/give items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nature's compass x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Reinforced spade x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Golden lasso x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Oblivion frame x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Portable scanner x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "The pan of Dooooom (steam lootbag) x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Read Carefully (steam lootbag) x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tomahawk (LV lootbag) x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Desolation (LV lootbag) x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cyclone (LV lootbag) x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Typhoon (LV lootbag) x1",
+      "category": [
+        "/give items",
+        "Helpful_items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "crafting table",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "furnace",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "chest",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": "10",
+      "name": "progressive weapon damage",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "bed",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "soft mallet",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mortar",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "crowbar",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "file",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "hammer",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "saw",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "plunger",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "screwdriver",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "wire cutters",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "wrench",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "soldering iron",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "butchery knife",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "electric wrench",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "electric screwdriver",
+      "category": [
+        "GT items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "8",
+      "name": "progressive mining level",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "small coal boiler",
+      "category": [
+        "Steam machines",
+        "Generators"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam furnace",
+      "category": [
+        "Steam machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "lava boiler",
+      "category": [
+        "Steam machines",
+        "Generators"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "solar boiler",
+      "category": [
+        "Steam machines",
+        "Generators"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam alloy smelter",
+      "category": [
+        "Steam machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam macerator",
+      "category": [
+        "Steam machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam compressor",
+      "category": [
+        "Steam machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam extractor",
+      "category": [
+        "Steam machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam forge hammer",
+      "category": [
+        "Steam machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "BBF",
+      "category": [
+        "unclassed machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "smeltery",
+      "category": [
+        "Tinkers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam hearth",
+      "category": [
+        "Steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "water tank",
+      "category": [
+        "unclassed machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "water pump",
+      "category": [
+        "Steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "coke oven",
+      "category": [
+        "unclassed machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "windmill",
+      "category": [
+        "unclassed machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "nether",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "charcoal pile igniter",
+      "category": [
+        "unclassed machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "stirling pump",
+      "category": [
+        "unclassed machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "tool forge",
+      "category": [
+        "Tinkers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "tinkers stations",
+      "category": [
+        "Tinkers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam squasher",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam separator",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam purifier",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam fuser",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam presser",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam blender",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "steam grinder",
+      "category": [
+        "steam machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "kitchen tools",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "7",
+      "name": "progressive armor",
+      "category": [
+        "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "vacuum tubes",
+      "category": [
+        "Circuitry"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "resistors",
+      "category": [
+        "Circuitry"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "basic circuit board",
+      "category": [
+        "Circuitry"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "electronic circuit",
+      "category": [
+        "Circuitry"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "diodes",
+      "category": [
+        "Circuitry",
+        "LV_Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV machine hull",
+      "category": [
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV steam turbine",
+      "category": [
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV motor",
+      "category": [
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV piston",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV pump",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV conveyor",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV robot arm",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV sensor",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV emitter",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV steam valve",
+      "category": [
+        "LV_Progression",
+        "LV components"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV assembler",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV circuit assembler",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV mixer",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV laser engraver",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV cutting machine",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV compressor",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV autoclave",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV auto workbench",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV bending machine",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV forming press",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV forge hammer",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV extruder",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV lathe",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV wiremill",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV fluid solidifier",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV extractor",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV fluid extractor",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV centrifuge",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV electrolyser",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV electromagnetic separator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV polarizer",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV chemical reactor",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV distillery",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV brewery",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV fermenter",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV electric furnace",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV electric oven",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV microwave",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV alloy smelter",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV fluid heater",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV arc furnace",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV seismic prospector",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV miner",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV pump (machine)",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV macerator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV simple washer",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV ore washer",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV chemical bath",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV sifter",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV thermal centrifuge",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV canner",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV packager",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV unpackager",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV crop manager",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV crop breeder",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV seed generator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV world accelerator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV rock breaker",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV pollution scrubber",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV scanner",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV printer",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV monster repellator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV jukebox",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "LV gas turbine",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV combustion generator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV semifluid generator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV acid generator",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV advanced boiler",
+      "category": [
+        "LV_Progression",
+        "LV machines"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "EBF",
+      "category": [
+        "LV_Progression",
+        "LV machines",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "LV energy hatch",
+      "category": [
+        "LV_Progression",
+        "multiblocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cupronickel coils",
+      "category": [
+        "LV_Progression",
+        "multiblocks"
+      ],
+      "progression": true
+    }
+  ]
+}

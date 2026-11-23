@@ -1,0 +1,54 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "Which quest to end the playthrough at.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": true
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "Include_helpful_items":{
+            "description": [
+              "Add useful items in the pool that are normally made later in progression or rare lootbag drops",
+              "Includes nature's compass, reinforced spade, rare tinkers weapons from lootbags and more"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "Include_The_Green_Revolution_quests":{
+            "description": [
+                "Enable the green revolution quest tab, themed around cropsNH",
+              "Might need to grind towards random crops if enabled",
+              "CURRENTLY DOES NOTHING"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "Include_LV_Progression":{
+            "description": [
+              "Enable all quests that can be obtained pre MV through normal means",
+              "Be prepared to not have a wiremill for 90% of LV"
+            ],
+            "type": "Toggle",
+            "default": false
+        }
+
+
+    }
+
+}

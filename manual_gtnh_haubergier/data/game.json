@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "gtnh",
+  "creator": "haubergier",
+  "filler_item_name": "Coins x15",
+  "starting_items": [],
+  "death_link": true
+}

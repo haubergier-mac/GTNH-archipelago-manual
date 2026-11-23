@@ -1,0 +1,14 @@
+{
+  "Helpful_items": {
+    "yaml_option": [ "Include_helpful_items" ],
+    "hidden": true
+  },
+  "cropsNH": {
+    "yaml_option": [ "Include_The_Green_Revolution_quests" ],
+    "hidden": true
+  },
+  "LV_Progression": {
+    "yaml_option": [ "Include_LV_Progression" ],
+    "hidden": true
+  }
+}

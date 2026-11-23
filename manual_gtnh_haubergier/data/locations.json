@@ -1,0 +1,3724 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "LV unlock",
+      "category": [
+        "yaml options",
+        "LV_Progression"
+      ],
+      "place_item": [
+        "LV logic unlock"
+      ]
+    },
+    {
+      "name": "cropsNH unlock",
+      "category": [
+        "yaml options",
+        "cropsNH"
+      ],
+      "place_item": [
+        "cropsNH logic unlock"
+      ]
+    },
+    {
+      "name": "Your first night",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "E_TOO_MANY_MANY_KEYS",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Numbers in the corner?",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mushroom biomes? why are there so many?",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Permanent offhand!",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "In-game guide",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Backup your stuff...",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Better questing?",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Loading the chunks",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sticks 'n stones",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Where's the flint?",
+      "region": "start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crafting Time",
+      "region": "Crafting unlocked",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "All Alone in the Night",
+      "region": "Crafting unlocked",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Quests and Secondary Quests",
+      "region": "Crafting unlocked",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Oak Trees Are Not Apple Trees",
+      "region": "Crafting unlocked",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tools",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tell Me When We Reach 20",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Storage For Days",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|chest|"
+    },
+    {
+      "name": "Monster Trap",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|chest|"
+    },
+    {
+      "name": "Bamboo Fence",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|chest|"
+    },
+    {
+      "name": "You reap...",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "...What You Sow",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Can you hear the carrots grow?",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Collecting some berries",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Berry medley",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Get that stone",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fire, fire, grandpa!",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|furnace|"
+    },
+    {
+      "name": "\"Baked\" potatoes",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|furnace|"
+    },
+    {
+      "name": "Food variants",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|furnace|"
+    },
+    {
+      "name": "Monster hunter",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your first 'Long Range' weapon",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "murder",
+      "name": "Shields UP",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "shield update",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "moron's manual for massacring monsters",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "creeping dread",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "caught in the web",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "porkchops with attitude",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "rest in pieces",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Cows are supposed to moo!",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fluffy and red",
+      "region": "murder",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "soft mallet adventure",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|soft mallet|"
+    },
+    {
+      "name": "Staying cool in the heat",
+      "region": "wood tools",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": "|soft mallet|"
+    },
+    {
+      "name": "SO...TIRED...MUST...SLEEP...",
+      "region": "stone age start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "what's that...?",
+      "region": "stone age start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Goals",
+      "region": "stone age start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Even more challenges needed?",
+      "region": "stone age start",
+      "category": [
+        "And so it begins"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ready, Set, GO!",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "more food, more hearts",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Not enough items - Now with bookmarks and recent history!",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "NEI is more powerful than you imagine",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "NEI is EVEN MORE POWERFUL NOW?",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "NEI next level search",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "NEI next level recipe search",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gravel: The Gathering",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sand: The Gathering",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Clay: The Gathering",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Basic Processing",
+      "region": "stone age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|furnace|"
+    },
+    {
+      "name": "macerator v0.1 alpha",
+      "region": "mortar unlock",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Something to carry liquids",
+      "region": "mortar unlock",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finite water!?",
+      "region": "mortar unlock",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Book Parts",
+      "region": "mortar unlock",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sustainable Paper",
+      "region": "mortar unlock",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tinker-Time",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forming Press v0.1",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your first flint throwing knife",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your first tool",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your first flint sword",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Cow Tipper",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Cotton, cotton, and more cotton",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Punji sticks",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "don't burn your fingers!",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your first bow",
+      "region": "tinkers",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Getting (Char)coal",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "You Need MOOOOOOORE Wood",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Creosote",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finally, some powerful fuel",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Personally, I Prefer Pepsi",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Copper sky, Iron curtain",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "How the heck do i find ores?",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Digging deeper",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The power of prospecting!",
+      "region": "coke oven",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrade 2.0",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Iron ore",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Malachite",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Copper ore",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Another fuel source",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Getting iron",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wooden door",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Redstone",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Options for finding zinc",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Copper",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tin",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Making Bronze",
+      "region": "iron pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Making better tools",
+      "region": "bronze pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fallen from the sky",
+      "region": "bronze pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "no self healing tools here... yet",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "",
+      "region": "bronze pickaxe"
+    },
+    {
+      "name": "bronze javelin",
+      "region": "bronze pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|progressive weapon damage:2|"
+    },
+    {
+      "name": "Making a better sword",
+      "region": "bronze pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Making a rapier",
+      "region": "bronze pickaxe",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "GT tools",
+      "name": "Important tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|chest|"
+    },
+    {
+      "name": "Redstone, early game processing",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Redstone? Haste!",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A better furnace!",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Coins! Coins! Coins!",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine rod of the gods?",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|ore finder wand|"
+    },
+    {
+      "name": "Rare ores",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|ore finder wand|"
+    },
+    {
+      "name": "Better than barrels",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "compact drawers",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "framing drawers",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Even more compact storage",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "More compact storage",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Compact storage",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A better crafting table",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gardener",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sheep Hairdresser",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "All the finest cuts of meat",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|butchery knife|"
+    },
+    {
+      "name": "Animal farms",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|butchery knife|"
+    },
+    {
+      "name": "Circle shapes give me comfort",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stick a finger in the air",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Around and Around She Goes",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "XP Usage?!",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Too many Leaves",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A Better Lunch Bag",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A Green Revolution",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chad - A better way to make paper",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Better Storage",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tanned Leather",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A quicker way to get around",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sleeping outside",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Need more space?",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "You need them all!",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Do you really need them all?",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Got a flat tire?",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": "|crowbar|"
+    },
+    {
+      "name": "When all you have is a hammer...",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "GT6-styled pipes",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Automated Coke Ovens",
+      "region": "GT tools",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "You shall proceed",
+      "region": "steam age start",
+      "category": [
+        "Tier 0: stone age"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Welcome to Tier 0.5, Steam!",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hoppers",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bowl full of spaghetti",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "steam alternatives",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "More Advanced Alloys",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam alloy smelter|"
+    },
+    {
+      "name": "A very important alloy",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam alloy smelter|"
+    },
+    {
+      "name": "Wiremill v0.2 alpha",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tame an ocelot to get a friend",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "How to open your wooden doors?",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The heck is that?",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ooo, shiny! (not platinum!)",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|progressive mining level:4|"
+    },
+    {
+      "name": "A fool fit for a king",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|progressive mining level:4|"
+    },
+    {
+      "name": "A clear view",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "I ain't afraid of no ghost!",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "Where can i put all the liquids?",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "Better tank... Iron tank",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "The power of the sun",
+      "region": "post alloy smelter",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|smeltery| AND |solar boiler|"
+    },
+    {
+      "name": "Macerator v1.0!",
+      "region": "post macerator",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gypsum",
+      "region": "post macerator",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lapis, Lazurite, Sodalite, Calcite",
+      "region": "post macerator",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lapis? Lucky!",
+      "region": "post macerator",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Extra modifier",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|progressive mining level:4|"
+    },
+    {
+      "name": "Compressing stuff",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The future is here!",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Copper barrel",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Iron Barrel",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Silver barrel",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gold Barrel",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The cool guy",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The iron guy",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Making a list, checking it twice",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Books",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The one book to rule them all",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A better way to find items",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Welcome to forestry",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "working table 2.0",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "One Anvil...",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Better make that two!",
+      "region": "post compressor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "using steam to cook things",
+      "region": "steam age start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam furnace|"
+    },
+    {
+      "name": "Hammer time v2",
+      "region": "post forge hammer",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Too much junk??",
+      "region": "post forge hammer",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Underground geodes",
+      "region": "post forge hammer",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "extracting stuff",
+      "region": "post extractor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "mud, can also be used for facials",
+      "region": "post extractor",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Blastoff!",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrade of the upgrade of the...",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reinforced X? unbreakable",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "How can i carry all these items?",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "What engineer doesn't want a personal workbench?",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "flint and steel",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lit way to get charred",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "molds, molds, molds",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "pumping water",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Better than iron",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "factory iron door",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "How to open your iron doors?",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrading drawers",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Key to your heart",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your mom says to upgrade your drawer",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A quite different storage",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Multiblock revolution",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Be sure to get your armpits",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The gt tank, ulv version",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Moving your tanks, chests, and barrels",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Accelerated plant growth",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Steel chest?",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Obzinite",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tool Forge",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge|"
+    },
+    {
+      "name": "Cutting a tree log by log is so old school",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge|"
+    },
+    {
+      "name": "One block mining is so old school",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge|"
+    },
+    {
+      "name": "Wooden crossbow",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge| AND |progressive weapon damage:5|"
+    },
+    {
+      "name": "Wooden bolts",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge| AND |progressive weapon damage:5|"
+    },
+    {
+      "name": "Mining dirt block by block is so old school",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge|"
+    },
+    {
+      "name": "Handpicking crops is so old school",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|tool forge|"
+    },
+    {
+      "name": "Upgrade: better furnace",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam furnace|"
+    },
+    {
+      "name": "Another use for Java, i mean lava",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrade: coal boiler",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Advanced solar boilers",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|solar boiler|"
+    },
+    {
+      "name": "Upgrade: high speed alloys",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrade: better macerator",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam macerator|"
+    },
+    {
+      "name": "Upgrade: extractor",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam extractor|"
+    },
+    {
+      "name": "Upgrade: A better compressor",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrade: forge hammer",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|steam forge hammer|"
+    },
+    {
+      "name": "barrel upgrades",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "barrel upgrades tier 2",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "barrel upgrades tier 3",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "barrel upgrades tier 4",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "barrel upgrades tier 5",
+      "region": "post BBF",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "THE NETHER",
+      "region": "nether",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nether quartz? Sharpness!",
+      "region": "nether",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "New source of glowstone",
+      "region": "nether",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lucifer's little helper",
+      "region": "nether",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Flaming idiots",
+      "region": "nether",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "How to make rubber",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Nice nether trees",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wire-Wrap",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Slime island journey",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "rubber sheets",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "I know his name!",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "it's a dirty job, and you're going to do it",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "pollution what....?",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "repairing your hazmat suit",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Jacques Cousteau",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Basic Crafting: motors",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|LV motor|"
+    },
+    {
+      "name": "Wired, weird?!",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "GT6-styled wires and cables",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Time for some logic",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|vacuum tubes|"
+    },
+    {
+      "name": "Circuit boards",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|basic circuit board| AND |vacuum tubes|"
+    },
+    {
+      "name": "resistor",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|resistors|"
+    },
+    {
+      "name": "Your first electronic circuit",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|electronic circuit| AND |resistors| AND |vacuum tubes| AND |basic circuit board|"
+    },
+    {
+      "name": "basic crafting: machine hulls",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|LV machine hull|"
+    },
+    {
+      "name": "basic crafting: rotors",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|LV motor|"
+    },
+    {
+      "name": "Steam-a-licious! (Steam goal)",
+      "victory": true,
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": "|LV motor| AND |electronic circuit| AND |LV machine hull| AND |LV steam turbine| AND |resistors| AND |vacuum tubes| AND |basic circuit board|"
+    },
+    {
+      "name": "Rubber soft mallet",
+      "region": "rubber",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Safety First",
+      "region": "LV start",
+      "category": [
+        "Tier 0.5: steam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Welcome to tier 1, LV",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Basic transport pipe",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Basic transport: fluids",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV piston| AND |LV lathe|"
+    },
+    {
+      "name": "Basic transport: items",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV lathe|"
+    },
+    {
+      "name": "node upgrades",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV lathe| AND |LV cutting machine|"
+    },
+    {
+      "name": "saving redstone",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV polarizer|"
+    },
+    {
+      "name": "magnetize your rods",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV polarizer|"
+    },
+    {
+      "name": "darn you, wire cutter!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV wiremill|"
+    },
+    {
+      "name": "EBF-time",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV",
+        "multiblock goals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "cobalt and arsenic from cobaltite",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Getting ready for tier 2, MV",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Aluminium tank",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your magic progression",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mica ore",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Electric furnace",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electric furnace|"
+    },
+    {
+      "name": "Hey dj, mix it!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV mixer|"
+    },
+    {
+      "name": "Electrically separating dusts",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser|"
+    },
+    {
+      "name": "Gallium arsenide crystal",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser|"
+    },
+    {
+      "name": "Better gallium and arsenic sources",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser|"
+    },
+    {
+      "name": "Thermal centrifuge",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser|"
+    },
+    {
+      "name": "Diodes",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser| AND |diodes|"
+    },
+    {
+      "name": "Cable diodes",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser| AND |diodes|"
+    },
+    {
+      "name": "Quartzite veins",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Process some certus quartz",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Certus quartz tank",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV conveyor| AND |LV robot arm| AND |LV piston| AND |LV assembler|"
+    },
+    {
+      "name": "You're gonna hate this #6",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV sensor|"
+    },
+    {
+      "name": "Auto mining",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV sensor| AND |LV miner|"
+    },
+    {
+      "name": "Long distance item pipeline",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV sensor| AND |LV miner|"
+    },
+    {
+      "name": "You're gonna hate this #5",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV emitter|"
+    },
+    {
+      "name": "Reading the grid",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV emitter| AND |LV sensor| AND |diodes| AND |LV fluid extractor| AND |LV pump|"
+    },
+    {
+      "name": "Choices, choices",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Firestone ore/dust",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "You're gonna hate this #3",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston|"
+    },
+    {
+      "name": "Saving metal with bending",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV bending machine| AND |LV piston|"
+    },
+    {
+      "name": "Empty cells",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV bending machine| AND |LV piston|"
+    },
+    {
+      "name": "Portable tanks too small?",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV bending machine| AND |LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+    },
+    {
+      "name": "Circuit programming",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "No more filing",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV bending machine| AND |LV piston| AND |LV lathe|"
+    },
+    {
+      "name": "Sifting machine",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump|"
+    },
+    {
+      "name": "Precision laser engraver",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV emitter| AND |LV laser engraver|"
+    },
+    {
+      "name": "Refined firestone",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV emitter| AND |LV laser engraver|"
+    },
+    {
+      "name": "You're gonna hate this #4",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV robot arm|"
+    },
+    {
+      "name": "Handle tiny piles like a k1ng",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump| AND |LV packager|"
+    },
+    {
+      "name": "Handle resources like a bo$$ #1",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump|"
+    },
+    {
+      "name": "Handle resources like a bo$$ #2",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump|"
+    },
+    {
+      "name": "Avengers, assemble!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+    },
+    {
+      "name": "Ardite and cobalt",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |progressive mining level:7|"
+    },
+    {
+      "name": "Gotta catch 'em all",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+    },
+    {
+      "name": "Biomes everywhere, but not the one you want?",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND (|LV centrifuge| OR (|LV pump| AND |LV fluid extractor|)"
+    },
+    {
+      "name": "Basic monster prevention",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Lossless LV cables",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV chemical reactor|"
+    },
+    {
+      "name": "Keeping things organized",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Where does it all go?",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Too much fluid??",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+    },
+    {
+      "name": "Void buses",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+    },
+    {
+      "name": "Throwing out the trash",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+    },
+    {
+      "name": "electric macerator",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV piston| AND |LV macerator|) OR |steam grinder|"
+    },
+    {
+      "name": "Prison gangs are obsolete",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV rock breaker|"
+    },
+    {
+      "name": "LV extruder",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV extruder|"
+    },
+    {
+      "name": "Molten redstone?",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV pump| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Compact? or is it?",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV piston| AND |LV compressor|) OR |steam squasher|"
+    },
+    {
+      "name": "Mjolnir!!!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV piston| AND |LV forge hammer|) OR |steam presser|"
+    },
+    {
+      "name": "Press all the things",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV forming press|"
+    },
+    {
+      "name": "Hydrogen, methane, or some farts... (natural gas)",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV gas turbine|"
+    },
+    {
+      "name": "Exploding fluids for power",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV combustion generator|"
+    },
+    {
+      "name": "Alloy smelter",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV alloy smelter| OR |steam fuser|"
+    },
+    {
+      "name": "Round and round and round...",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |steam separator|"
+    },
+    {
+      "name": "Craftsman used to mean quality",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |steam separator|"
+    },
+    {
+      "name": "Damascus steel",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor|"
+    },
+    {
+      "name": "Oilsands, or how you get heavy oil",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |steam separator|"
+    },
+    {
+      "name": "Magnesium source",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |steam separator| "
+    },
+    {
+      "name": "A new alloy, magnalium",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder|"
+    },
+    {
+      "name": "Magnalium crossbow",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:3|"
+    },
+    {
+      "name": "Magnalium crossbow bolts",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:3| AND (|LV chemical reactor| OR |LV fluid extractor|) AND |LV pump| AND |LV fluid solidifier|"
+    },
+    {
+      "name": "Brittle but hits like a sledgehammer",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:3|"
+    },
+    {
+      "name": "Fiery bowstring",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:4|"
+    },
+    {
+      "name": "Ardite crossbow body",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:4|"
+    },
+    {
+      "name": "Glue",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |steam separator|"
+    },
+    {
+      "name": "Enderman smelterman",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+    },
+    {
+      "name": "Empty circuit board",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Good circuits",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes|"
+    },
+    {
+      "name": "Basic circuit assembler (LV goal)",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter|",
+      "victory": true
+    },
+    {
+      "name": "Scanning bees, crops and moooooore!",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter| AND |LV sensor| AND |LV scanner|"
+    },
+    {
+      "name": "post EBF",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter| AND |LV sensor| AND |LV seismic prospector|"
+    },
+    {
+      "name": "I guess it's an inkjet?",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter| AND |LV sensor| AND |LV printer|"
+    },
+    {
+      "name": "Mercury",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|)"
+    },
+    {
+      "name": "N like nitrogen... Hide, the alphabet strikes again!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|)"
+    },
+    {
+      "name": "H for hydrogen... The rest of the alphabet is too complicated...",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV centrifuge| OR |steam separator|)"
+    },
+    {
+      "name": "C9H8O4...NaCl...H2O",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV chemical reactor|"
+    },
+    {
+      "name": "Chemical rubber production",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV chemical reactor| AND |LV piston| AND |LV conveyor| AND |LV robot arm| AND |LV assembler|"
+    },
+    {
+      "name": "Fertilized earth",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV chemical reactor|"
+    },
+    {
+      "name": "Basic fluid solidifier",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "(|LV chemical reactor| OR (|LV fluid extractor| AND |LV piston|)) AND |LV pump| AND |LV fluid solidifier|"
+    },
+    {
+      "name": "You're gonna hate this #2",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump|"
+    },
+    {
+      "name": "Brewing, the industrial way",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV brewery|"
+    },
+    {
+      "name": "Chemical bath",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV conveyor| AND |LV chemical bath|"
+    },
+    {
+      "name": "Filling the world with fluids",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump|"
+    },
+    {
+      "name": "Suction device... nice",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV piston|"
+    },
+    {
+      "name": "Ferment your brew!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV fermenter|"
+    },
+    {
+      "name": "Dust to crystals",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV autoclave|"
+    },
+    {
+      "name": "Basic ore washer",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND (|LV ore washer| OR |steam purifier|)"
+    },
+    {
+      "name": "Simple ore washer",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND (|LV simple washer| OR |steam purifier|)"
+    },
+    {
+      "name": "GT tanks, the lv version",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump|"
+    },
+    {
+      "name": "GT MV tanks... already?",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Faster steam transportation",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV steam valve|"
+    },
+    {
+      "name": "Steam regulator",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV steam valve|"
+    },
+    {
+      "name": "Hello baron, how's your black gold today?",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine|"
+    },
+    {
+      "name": "Time to dry out the nether",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine|"
+    },
+    {
+      "name": "Long distance fluid pipeline",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine|"
+    },
+    {
+      "name": "Your oil is too crude? refine it!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV distillery|"
+    },
+    {
+      "name": "Lubricant",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+    },
+    {
+      "name": "Sulfuric light fuel",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+    },
+    {
+      "name": "Light fuel",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Heavy sulfuric fuel",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+    },
+    {
+      "name": "Heavy fuel",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Sulfuric naphtha",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+    },
+    {
+      "name": "Naphtha",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Sulfuric Gas",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+    },
+    {
+      "name": "Refinery gas",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Butane and propane",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "LPG",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Methane",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+    },
+    {
+      "name": "Machine interface fluid I/O",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tetrahedrite, stibnite and copper",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Antimony",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A lead to lead that leads to lead",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A better fluid pipe",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "LV advanced steam boiler",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV pump|"
+    },
+    {
+      "name": "Battery alloy",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "How to get sodium",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sodium",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser| OR |LV centrifuge| OR |LV ore washer| OR |steam purifier|"
+    },
+    {
+      "name": "How to get sodium and lithium",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lithium",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |LV ore washer| OR |steam purifier|"
+    },
+    {
+      "name": "Chlorine, your new best friend",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV electrolyser|"
+    },
+    {
+      "name": "Cadmium",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV centrifuge| OR |LV thermal centrifuge|"
+    },
+    {
+      "name": "Black and decker",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|electric wrench| AND |electric screwdriver|"
+    },
+    {
+      "name": "Sulfuric acid",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV chemical reactor|"
+    },
+    {
+      "name": "Magnets != magic",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV polarizer| AND |LV canner| AND |LV pump|"
+    },
+    {
+      "name": "Basic canner",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump|"
+    },
+    {
+      "name": "IC2 battery",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump| AND |LV piston| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Automated sticky resin farmer",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump| AND |LV piston| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Automated farmer",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump| AND |LV piston| AND |LV fluid extractor|"
+    },
+    {
+      "name": "Electrotine battery",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump|"
+    },
+    {
+      "name": "Arc furnace",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump| AND |LV arc furnace|"
+    },
+    {
+      "name": "Cheaper annealed production",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV canner| AND |LV pump| AND |LV arc furnace| AND (|LV electrolyser| OR |LV centrifuge|)"
+    },
+    {
+      "name": "Faster steel production",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "You're gonna hate this #1",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV conveyor|"
+    },
+    {
+      "name": "One in a million",
+      "region": "post EBF",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Automated crafting",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|LV conveyor|"
+    },
+    {
+      "name": "A new alloy - Cobalt brass",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor|"
+    },
+    {
+      "name": "A truly sharp blade",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor|"
+    },
+    {
+      "name": "Cutting things apart",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine|"
+    },
+    {
+      "name": "Diamond spikes",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+    },
+    {
+      "name": "Portable mob spawners...? Cool!",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe| AND |LV pump| AND |LV chemical reactor| AND |LV distillery|"
+    },
+    {
+      "name": "Vroooooom...",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine|"
+    },
+    {
+      "name": "Diamond tanks... Ooo, shiny",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+    },
+    {
+      "name": "Diamond barrel",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+    },
+    {
+      "name": "Personal chunkloading",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine|"
+    },
+    {
+      "name": "Akihabra",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV robot arm| AND |LV assembler|"
+    },
+    {
+      "name": "Diamond chests.... Ooo, shiny",
+      "region": "LV start",
+      "category": [
+        "Tier 1: LV"
+      ],
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+    },
+    {
+      "name": "Wheat Time",
+      "region": "wood tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Barley time",
+      "region": "wood tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Floury flurry",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Do'h!",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "I like big sandwiches",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First handmade bread",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tasty toast",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Animal trapping",
+      "region": "GT tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "GT tools",
+      "name": "Grain bait",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fruit bait",
+      "region": "GT tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Veggie bait",
+      "region": "GT tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crispy rotten flesh",
+      "region": "GT tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fresh water and milk",
+      "region": "GT tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "No chicken escapes!",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "pumpkin pie",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "chef training",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "fried eggs",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "potato cakes",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Just like mom used to make",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A fisherman's friend",
+      "region": "post alloy smelter",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fish trapping",
+      "region": "post alloy smelter",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fish bait",
+      "region": "post alloy smelter",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fish trapping 2.0",
+      "region": "post BBF",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "wet dirt armor?",
+      "region": "wood tools",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|progressive armor:1|"
+    },
+    {
+      "name": "Wooden armor",
+      "region": "wood tools",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|soft mallet| AND |progressive armor:2|"
+    },
+    {
+      "name": "leather armor",
+      "region": "tinkers",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|progressive armor:3|"
+    },
+    {
+      "name": "Armor 2.0",
+      "region": "iron pickaxe",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|progressive armor:4|"
+    },
+    {
+      "name": "Fancy armor",
+      "region": "post BBF",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|progressive armor:5|"
+    },
+    {
+      "name": "Armor 2.5",
+      "region": "post BBF",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|progressive armor:6|"
+    },
+    {
+      "name": "Composite vest",
+      "region": "post BBF",
+      "category": [
+        "...without dying"
+      ],
+      "requires": "|progressive armor:7|"
+    },
+    {
+      "name": "You are now prepared, hopefully!",
+      "region": "tinkers",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "Obtaining ender pearls",
+      "region": "tinkers",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "Automation, tier 1",
+      "region": "GT tools",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "Automation, tier 2",
+      "region": "nether",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|smeltery|"
+    },
+    {
+      "name": "Time to get some steel",
+      "region": "post BBF",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "2x steel",
+      "region": "post BBF",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "4x steel",
+      "region": "post BBF",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "An unexpected bonus",
+      "region": "post BBF",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The water Dilemna",
+      "region": "GT tools",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|water tank|"
+    },
+    {
+      "name": "Digging deep for water",
+      "region": "post BBF",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|water pump|"
+    },
+    {
+      "name": "Grinding with wind",
+      "region": "GT tools",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": "|windmill|"
+    },
+    {
+      "name": "Why one coke oven when you can have ten?",
+      "region": "coke oven",
+      "category": [
+        "multiblock goals"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "STEAM-POWERED BREAKTHROUGH",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "More steam, More pressure!",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "A steam-powered whirl!",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Pressure washing!",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Smelt all the things...",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Steam fusing?",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Steam stomping!",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Steam blender?",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Steamy mincer",
+      "region": "post BBF",
+      "category": [
+        "mass processing"
+      ],
+      "requires": ""
+    }
+  ]
+}
