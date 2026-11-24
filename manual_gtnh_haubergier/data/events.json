@@ -1,1 +1,6 @@
-[]
+[
+{
+    "name": "cropsNH logic unlock",
+    "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}"
+}
+]

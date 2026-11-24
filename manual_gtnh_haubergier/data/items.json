@@ -3,22 +3,6 @@
   "data": [
     {
       "count": 1,
-      "name": "LV logic unlock",
-      "category": [
-        "LV_Progression"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "cropsNH logic unlock",
-      "category": [
-        "cropsNH"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
       "name": "glider",
       "category": [
         "QOL items"

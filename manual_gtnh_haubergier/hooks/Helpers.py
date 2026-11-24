@@ -1,10 +1,12 @@
 from typing import Optional, Any
 from BaseClasses import MultiWorld
-
+from ..Helpers import get_option_value
 
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
+    if category_name == "LV_Progression":
+         return get_option_value(multiworld, player, "Last_tier_progression") >= 1
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
