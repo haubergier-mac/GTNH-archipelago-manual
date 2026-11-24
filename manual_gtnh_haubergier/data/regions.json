@@ -101,7 +101,6 @@
   },
   "post extractor": {
     "connects_to": [
-      "rubber"
     ],
     "requires": "|steam extractor| AND |smeltery|"
   },
@@ -121,7 +120,7 @@
     "connects_to": [
       "LV start"
     ],
-    "requires": "|steam extractor| AND |nether|"
+    "requires": "|steam extractor|"
   },
   "pams cooking": {
     "connects_to": [],
@@ -135,14 +134,14 @@
   },
   "cropsNH LV": {
     "connects_to": [],
-    "requires": "|LV logic unlock|"
+    "requires": "{YamlCompare(Last_tier_progression >= 1)}"
   },
   "LV start": {
-    "connects_to": ["post EBF"],
-    "requires": "|LV motor| AND |electronic circuit| AND |LV machine hull| AND |LV steam turbine| AND |resistors| AND |vacuum tubes| AND |basic circuit board| AND |LV logic unlock|"
+    "connects_to": [ "post EBF" ],
+    "requires": "|progressive motor:1| AND |electronic circuit| AND |progressive machine hull:1| AND |progressive steam turbine:1| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1| AND {YamlCompare(Last_tier_progression >= 1)}"
   },
   "post EBF": {
     "connects_to": [],
-    "requires": "|LV conveyor| AND |LV robot arm| AND |LV piston| AND |LV assembler| AND |LV fluid extractor| AND |LV energy hatch| AND |Cupronickel coils| AND |LV bending machine| AND |LV forming press| AND (|LV mixer| OR |steam blender|) AND |LV pump| AND |LV distillery| AND |EBF| AND |crowbar| AND |soldering iron|"
+    "requires": "|progressive conveyor:1| AND |progressive robot arm:1| AND |progressive piston:1| AND |progressive assembler:1| AND |progressive fluid extractor:1| AND |progressive energy hatch:1| AND |progressive coils:1| AND |progressive bending machine:1| AND |progressive forming press:1| AND (|progressive mixer:1| OR |steam blender|) AND |progressive pump:1| AND |progressive distillery:1| AND |EBF| AND |crowbar| AND |soldering iron|"
   }
 }

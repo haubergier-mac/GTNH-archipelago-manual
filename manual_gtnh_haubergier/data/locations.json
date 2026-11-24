@@ -2,26 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
   "data": [
     {
-      "name": "LV unlock",
-      "category": [
-        "yaml options",
-        "LV_Progression"
-      ],
-      "place_item": [
-        "LV logic unlock"
-      ]
-    },
-    {
-      "name": "cropsNH unlock",
-      "category": [
-        "yaml options",
-        "cropsNH"
-      ],
-      "place_item": [
-        "cropsNH logic unlock"
-      ]
-    },
-    {
       "name": "Your first night",
       "region": "start",
       "category": [
@@ -1683,7 +1663,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|tool forge| AND |progressive weapon damage:5|"
+      "requires": "|tool forge| AND |progressive weapon damage:4|"
     },
     {
       "name": "Wooden bolts",
@@ -1691,7 +1671,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|tool forge| AND |progressive weapon damage:5|"
+      "requires": "|tool forge| AND |progressive weapon damage:4|"
     },
     {
       "name": "Mining dirt block by block is so old school",
@@ -1942,14 +1922,6 @@
       "requires": ""
     },
     {
-      "name": "Basic Crafting: motors",
-      "region": "rubber",
-      "category": [
-        "Tier 0.5: steam"
-      ],
-      "requires": "|LV motor|"
-    },
-    {
       "name": "Wired, weird?!",
       "region": "rubber",
       "category": [
@@ -1979,7 +1951,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|basic circuit board| AND |vacuum tubes|"
+      "requires": "|progressive circuit board:1| AND |vacuum tubes|"
     },
     {
       "name": "resistor",
@@ -1995,7 +1967,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|electronic circuit| AND |resistors| AND |vacuum tubes| AND |basic circuit board|"
+      "requires": "|electronic circuit| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1|"
     },
     {
       "name": "basic crafting: machine hulls",
@@ -2003,7 +1975,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|LV machine hull|"
+      "requires": "|progressive machine hull:1|"
     },
     {
       "name": "basic crafting: rotors",
@@ -2011,7 +1983,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|LV motor|"
+      "requires": "|progressive motor:1|"
     },
     {
       "name": "Steam-a-licious! (Steam goal)",
@@ -2020,7 +1992,7 @@
       "category": [
         "Tier 0.5: steam"
       ],
-      "requires": "|LV motor| AND |electronic circuit| AND |LV machine hull| AND |LV steam turbine| AND |resistors| AND |vacuum tubes| AND |basic circuit board|"
+      "requires": "|progressive motor:1| AND |electronic circuit| AND |progressive machine hull:1| AND |progressive steam turbine:1| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1|"
     },
     {
       "name": "Rubber soft mallet",
@@ -2060,7 +2032,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV piston| AND |LV lathe|"
+      "requires": "|progressive pump:1| AND |progressive piston:1| AND |progressive lathe:1|"
     },
     {
       "name": "Basic transport: items",
@@ -2068,7 +2040,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV lathe|"
+      "requires": "|progressive piston:1| AND |progressive lathe:1|"
     },
     {
       "name": "node upgrades",
@@ -2076,7 +2048,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV lathe| AND |LV cutting machine|"
+      "requires": "|progressive piston:1| AND |progressive lathe:1| AND |progressive cutting machine:1|"
     },
     {
       "name": "saving redstone",
@@ -2084,7 +2056,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV polarizer|"
+      "requires": "|progressive polarizer:1|"
     },
     {
       "name": "magnetize your rods",
@@ -2092,7 +2064,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV polarizer|"
+      "requires": "|progressive polarizer:1|"
     },
     {
       "name": "darn you, wire cutter!",
@@ -2100,7 +2072,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV wiremill|"
+      "requires": "|progressive wiremill:1|"
     },
     {
       "name": "EBF-time",
@@ -2157,7 +2129,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electric furnace|"
+      "requires": "|progressive electric furnace:1|"
     },
     {
       "name": "Hey dj, mix it!",
@@ -2165,7 +2137,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV mixer|"
+      "requires": "|progressive mixer:1| OR |steam blender|"
     },
     {
       "name": "Electrically separating dusts",
@@ -2173,7 +2145,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Gallium arsenide crystal",
@@ -2181,7 +2153,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Better gallium and arsenic sources",
@@ -2189,7 +2161,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Thermal centrifuge",
@@ -2197,7 +2169,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Diodes",
@@ -2205,7 +2177,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser| AND |diodes|"
+      "requires": "|progressive electrolyser:1| AND |diodes|"
     },
     {
       "name": "Cable diodes",
@@ -2213,7 +2185,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser| AND |diodes|"
+      "requires": "|progressive electrolyser:1| AND |diodes|"
     },
     {
       "name": "Quartzite veins",
@@ -2237,7 +2209,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV conveyor| AND |LV robot arm| AND |LV piston| AND |LV assembler|"
+      "requires": "|progressive conveyor:1| AND |progressive robot arm:1| AND |progressive piston:1| AND |progressive assembler:1|"
     },
     {
       "name": "You're gonna hate this #6",
@@ -2245,7 +2217,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV sensor|"
+      "requires": "|progressive sensor:1|"
     },
     {
       "name": "Auto mining",
@@ -2253,7 +2225,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV sensor| AND |LV miner|"
+      "requires": "|progressive sensor:1| AND |progressive miner:1|"
     },
     {
       "name": "Long distance item pipeline",
@@ -2261,7 +2233,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV sensor| AND |LV miner|"
+      "requires": "|progressive sensor:1| AND |progressive miner:1|"
     },
     {
       "name": "You're gonna hate this #5",
@@ -2269,7 +2241,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV emitter|"
+      "requires": "|progressive emitter:1|"
     },
     {
       "name": "Reading the grid",
@@ -2277,7 +2249,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV emitter| AND |LV sensor| AND |diodes| AND |LV fluid extractor| AND |LV pump|"
+      "requires": "|progressive emitter:1| AND |progressive sensor:1| AND |diodes| AND |progressive fluid extractor:1| AND |progressive pump:1|"
     },
     {
       "name": "Choices, choices",
@@ -2301,7 +2273,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston|"
+      "requires": "|progressive piston:1|"
     },
     {
       "name": "Saving metal with bending",
@@ -2309,7 +2281,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV bending machine| AND |LV piston|"
+      "requires": "|progressive bending machine:1| AND |progressive piston:1|"
     },
     {
       "name": "Empty cells",
@@ -2317,7 +2289,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV bending machine| AND |LV piston|"
+      "requires": "|progressive bending machine:1| AND |progressive piston:1|"
     },
     {
       "name": "Portable tanks too small?",
@@ -2325,7 +2297,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV bending machine| AND |LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+      "requires": "|progressive bending machine:1| AND |progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Circuit programming",
@@ -2341,7 +2313,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV bending machine| AND |LV piston| AND |LV lathe|"
+      "requires": "|progressive bending machine:1| AND |progressive piston:1| AND |progressive lathe:1|"
     },
     {
       "name": "Sifting machine",
@@ -2349,7 +2321,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive sifter:1| AND |progressive chemical reactor:1| AND |progressive distillery:1| AND |progressive pump:1|"
     },
     {
       "name": "Precision laser engraver",
@@ -2357,7 +2329,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV emitter| AND |LV laser engraver|"
+      "requires": "|progressive piston:1| AND |progressive emitter:1| AND |progressive laser engraver:1|"
     },
     {
       "name": "Refined firestone",
@@ -2365,7 +2337,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV emitter| AND |LV laser engraver|"
+      "requires": "|progressive piston:1| AND |progressive emitter:1| AND |progressive laser engraver:1|"
     },
     {
       "name": "You're gonna hate this #4",
@@ -2373,7 +2345,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV robot arm|"
+      "requires": "|progressive piston:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Handle tiny piles like a k1ng",
@@ -2381,7 +2353,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump| AND |LV packager|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive sifter:1| AND |progressive chemical reactor:1| AND |progressive distillery:1| AND |progressive pump:1| AND |progressive packager:1|"
     },
     {
       "name": "Handle resources like a bo$$ #1",
@@ -2389,7 +2361,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive sifter:1| AND |progressive chemical reactor:1| AND |progressive distillery:1| AND |progressive pump:1|"
     },
     {
       "name": "Handle resources like a bo$$ #2",
@@ -2397,7 +2369,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV sifter| AND |LV chemical reactor| AND |LV distillery| AND |LV pump|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive sifter:1| AND |progressive chemical reactor:1| AND |progressive distillery:1| AND |progressive pump:1|"
     },
     {
       "name": "Avengers, assemble!",
@@ -2405,7 +2377,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Ardite and cobalt",
@@ -2413,7 +2385,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |progressive mining level:7|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive mining level:7|"
     },
     {
       "name": "Gotta catch 'em all",
@@ -2421,7 +2393,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Biomes everywhere, but not the one you want?",
@@ -2429,7 +2401,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND (|LV centrifuge| OR (|LV pump| AND |LV fluid extractor|)"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND (|progressive centrifuge:1| OR (|progressive pump:1| AND |progressive fluid extractor:1|)"
     },
     {
       "name": "Basic monster prevention",
@@ -2437,7 +2409,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive pump:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Lossless LV cables",
@@ -2445,7 +2417,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV chemical reactor|"
+      "requires": "|progressive chemical reactor:1|"
     },
     {
       "name": "Keeping things organized",
@@ -2453,7 +2425,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive pump:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Where does it all go?",
@@ -2461,7 +2433,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive pump:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Too much fluid??",
@@ -2469,7 +2441,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Void buses",
@@ -2477,7 +2449,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Throwing out the trash",
@@ -2485,7 +2457,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV pump| AND |LV fluid extractor|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive pump:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "electric macerator",
@@ -2493,7 +2465,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV piston| AND |LV macerator|) OR |steam grinder|"
+      "requires": "|progressive piston:1| AND (|progressive macerator:1| OR |steam grinder|)"
     },
     {
       "name": "Prison gangs are obsolete",
@@ -2501,7 +2473,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV rock breaker|"
+      "requires": "|progressive piston:1| AND |progressive rock breaker:1|"
     },
     {
       "name": "LV extruder",
@@ -2509,7 +2481,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV extruder|"
+      "requires": "|progressive piston:1| AND |progressive extruder:1|"
     },
     {
       "name": "Molten redstone?",
@@ -2517,7 +2489,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV pump| AND |LV fluid extractor|"
+      "requires": "|progressive piston:1| AND |progressive pump:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Compact? or is it?",
@@ -2525,7 +2497,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV piston| AND |LV compressor|) OR |steam squasher|"
+      "requires": "|progressive piston:1| AND (|progressive compressor:1| OR |steam squasher|)"
     },
     {
       "name": "Mjolnir!!!",
@@ -2533,7 +2505,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV piston| AND |LV forge hammer|) OR |steam presser|"
+      "requires": "|progressive piston:1| AND (|progressive forge hammer:1| OR |steam presser|)"
     },
     {
       "name": "Press all the things",
@@ -2541,7 +2513,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV forming press|"
+      "requires": "|progressive piston:1| AND |progressive forming press:1|"
     },
     {
       "name": "Hydrogen, methane, or some farts... (natural gas)",
@@ -2549,7 +2521,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV gas turbine|"
+      "requires": "|progressive piston:1| AND |progressive gas turbine:1|"
     },
     {
       "name": "Exploding fluids for power",
@@ -2557,7 +2529,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV combustion generator|"
+      "requires": "|progressive piston:1| AND |progressive combustion generator:1|"
     },
     {
       "name": "Alloy smelter",
@@ -2565,7 +2537,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV alloy smelter| OR |steam fuser|"
+      "requires": "|progressive alloy smelter:1| OR |steam fuser|"
     },
     {
       "name": "Round and round and round...",
@@ -2573,7 +2545,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |steam separator|"
+      "requires": "|progressive centrifuge:1| OR |steam separator|"
     },
     {
       "name": "Craftsman used to mean quality",
@@ -2581,7 +2553,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |steam separator|"
+      "requires": "|progressive centrifuge:1| OR |steam separator|"
     },
     {
       "name": "Damascus steel",
@@ -2589,7 +2561,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive chemical reactor:1|"
     },
     {
       "name": "Oilsands, or how you get heavy oil",
@@ -2597,7 +2569,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |steam separator|"
+      "requires": "|progressive centrifuge:1| OR |steam separator|"
     },
     {
       "name": "Magnesium source",
@@ -2605,7 +2577,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |steam separator| "
+      "requires": "|progressive centrifuge:1| OR |steam separator| "
     },
     {
       "name": "A new alloy, magnalium",
@@ -2613,7 +2585,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive extruder:1|"
     },
     {
       "name": "Magnalium crossbow",
@@ -2621,7 +2593,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:3|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive extruder:1| AND |progressive weapon damage:5|"
     },
     {
       "name": "Magnalium crossbow bolts",
@@ -2629,7 +2601,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:3| AND (|LV chemical reactor| OR |LV fluid extractor|) AND |LV pump| AND |LV fluid solidifier|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive extruder:1| AND |progressive weapon damage:5| AND (|progressive chemical reactor:1| OR |progressive fluid extractor:1|) AND |progressive pump:1| AND |progressive fluid solidifier:1|"
     },
     {
       "name": "Brittle but hits like a sledgehammer",
@@ -2637,7 +2609,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:3|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive extruder:1| AND |progressive weapon damage:6|"
     },
     {
       "name": "Fiery bowstring",
@@ -2645,7 +2617,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:4|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive extruder:1| AND |progressive weapon damage:6|"
     },
     {
       "name": "Ardite crossbow body",
@@ -2653,7 +2625,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV extruder| AND |progressive weapon damage:4|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive extruder:1| AND |progressive weapon damage:6|"
     },
     {
       "name": "Glue",
@@ -2661,7 +2633,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |steam separator|"
+      "requires": "|progressive centrifuge:1| OR |steam separator|"
     },
     {
       "name": "Enderman smelterman",
@@ -2669,7 +2641,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Empty circuit board",
@@ -2677,7 +2649,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV chemical reactor|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Good circuits",
@@ -2685,7 +2657,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive chemical reactor:1| AND |progressive electrolyser:1| AND |diodes|"
     },
     {
       "name": "Basic circuit assembler (LV goal)",
@@ -2693,7 +2665,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter|",
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive chemical reactor:1| AND |progressive electrolyser:1| AND |diodes| AND |good circuit| AND |progressive emitter:1|",
       "victory": true
     },
     {
@@ -2702,7 +2674,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter| AND |LV sensor| AND |LV scanner|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive chemical reactor:1| AND |progressive electrolyser:1| AND |diodes| AND |progressive emitter:1| AND |progressive sensor:1| AND |progressive scanner:1|"
     },
     {
       "name": "post EBF",
@@ -2710,7 +2682,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter| AND |LV sensor| AND |LV seismic prospector|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive chemical reactor:1| AND |progressive electrolyser:1| AND |diodes| AND |progressive emitter:1| AND |progressive sensor:1| AND |progressive seismic prospector:1|"
     },
     {
       "name": "I guess it's an inkjet?",
@@ -2718,7 +2690,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|) AND |LV chemical reactor| AND |LV electrolyser| AND |diodes| AND |LV emitter| AND |LV sensor| AND |LV printer|"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|) AND |progressive chemical reactor:1| AND |progressive electrolyser:1| AND |diodes| AND |progressive emitter:1| AND |progressive sensor:1| AND |progressive printer:1|"
     },
     {
       "name": "Mercury",
@@ -2726,7 +2698,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|)"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|)"
     },
     {
       "name": "N like nitrogen... Hide, the alphabet strikes again!",
@@ -2734,7 +2706,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|)"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|)"
     },
     {
       "name": "H for hydrogen... The rest of the alphabet is too complicated...",
@@ -2742,7 +2714,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV centrifuge| OR |steam separator|)"
+      "requires": "(|progressive centrifuge:1| OR |steam separator|)"
     },
     {
       "name": "C9H8O4...NaCl...H2O",
@@ -2750,7 +2722,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV chemical reactor|"
+      "requires": "|progressive chemical reactor:1|"
     },
     {
       "name": "Chemical rubber production",
@@ -2758,7 +2730,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV chemical reactor| AND |LV piston| AND |LV conveyor| AND |LV robot arm| AND |LV assembler|"
+      "requires": "|progressive chemical reactor:1| AND |progressive piston:1| AND |progressive conveyor:1| AND |progressive robot arm:1| AND |progressive assembler:1|"
     },
     {
       "name": "Fertilized earth",
@@ -2766,7 +2738,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV chemical reactor|"
+      "requires": "|progressive chemical reactor:1|"
     },
     {
       "name": "Basic fluid solidifier",
@@ -2774,7 +2746,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "(|LV chemical reactor| OR (|LV fluid extractor| AND |LV piston|)) AND |LV pump| AND |LV fluid solidifier|"
+      "requires": "(|progressive chemical reactor:1| OR (|progressive fluid extractor:1| AND |progressive piston:1|)) AND |progressive pump:1| AND |progressive fluid solidifier:1|"
     },
     {
       "name": "You're gonna hate this #2",
@@ -2782,7 +2754,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump|"
+      "requires": "|progressive pump:1|"
     },
     {
       "name": "Brewing, the industrial way",
@@ -2790,7 +2762,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV brewery|"
+      "requires": "|progressive pump:1| AND |progressive brewery:1|"
     },
     {
       "name": "Chemical bath",
@@ -2798,7 +2770,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV conveyor| AND |LV chemical bath|"
+      "requires": "|progressive pump:1| AND |progressive conveyor:1| AND |progressive chemical bath:1|"
     },
     {
       "name": "Filling the world with fluids",
@@ -2806,7 +2778,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump|"
+      "requires": "|progressive pump:1|"
     },
     {
       "name": "Suction device... nice",
@@ -2814,7 +2786,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV piston|"
+      "requires": "|progressive pump:1| AND |progressive piston:1|"
     },
     {
       "name": "Ferment your brew!",
@@ -2822,7 +2794,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV fermenter|"
+      "requires": "|progressive pump:1| AND |progressive fermenter:1|"
     },
     {
       "name": "Dust to crystals",
@@ -2830,7 +2802,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV autoclave|"
+      "requires": "|progressive pump:1| AND |progressive autoclave:1|"
     },
     {
       "name": "Basic ore washer",
@@ -2838,7 +2810,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND (|LV ore washer| OR |steam purifier|)"
+      "requires": "|progressive pump:1| AND (|progressive ore washer:1| OR |steam purifier|)"
     },
     {
       "name": "Simple ore washer",
@@ -2846,7 +2818,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND (|LV simple washer| OR |steam purifier|)"
+      "requires": "|progressive pump:1| AND (|progressive simple washer:1| OR |steam purifier|)"
     },
     {
       "name": "GT tanks, the lv version",
@@ -2854,7 +2826,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump|"
+      "requires": "|progressive pump:1|"
     },
     {
       "name": "GT MV tanks... already?",
@@ -2870,7 +2842,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV steam valve|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive steam valve:1|"
     },
     {
       "name": "Steam regulator",
@@ -2878,7 +2850,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV piston| AND |LV conveyor| AND |LV assembler| AND |LV robot arm| AND |LV steam valve|"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive steam valve:1|"
     },
     {
       "name": "Hello baron, how's your black gold today?",
@@ -2886,7 +2858,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1|"
     },
     {
       "name": "Time to dry out the nether",
@@ -2894,7 +2866,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1|"
     },
     {
       "name": "Long distance fluid pipeline",
@@ -2902,7 +2874,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1|"
     },
     {
       "name": "Your oil is too crude? refine it!",
@@ -2910,7 +2882,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV distillery|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive distillery:1|"
     },
     {
       "name": "Lubricant",
@@ -2918,7 +2890,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1|"
     },
     {
       "name": "Sulfuric light fuel",
@@ -2926,7 +2898,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1|"
     },
     {
       "name": "Light fuel",
@@ -2934,7 +2906,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Heavy sulfuric fuel",
@@ -2942,7 +2914,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1|"
     },
     {
       "name": "Heavy fuel",
@@ -2950,7 +2922,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Sulfuric naphtha",
@@ -2958,7 +2930,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1|"
     },
     {
       "name": "Naphtha",
@@ -2966,7 +2938,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Sulfuric Gas",
@@ -2974,7 +2946,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1|"
     },
     {
       "name": "Refinery gas",
@@ -2982,7 +2954,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Butane and propane",
@@ -2990,7 +2962,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "LPG",
@@ -2998,7 +2970,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Methane",
@@ -3006,7 +2978,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump| AND |LV pump (machine)| AND |LV wiremill| AND |LV piston| AND |LV bending machine| AND |LV distillery| AND |LV centrifuge| AND |LV chemical reactor|"
+      "requires": "|progressive pump:1| AND |progressive pump (machine):1| AND |progressive wiremill:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive distillery:1| AND |progressive centrifuge:1| AND |progressive chemical reactor:1|"
     },
     {
       "name": "Machine interface fluid I/O",
@@ -3054,7 +3026,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV pump|"
+      "requires": "|progressive pump:1| AND |progressive advanced boiler:1|"
     },
     {
       "name": "Battery alloy",
@@ -3078,7 +3050,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser| OR |LV centrifuge| OR |LV ore washer| OR |steam purifier|"
+      "requires": "|progressive electrolyser:1| OR |progressive centrifuge:1| OR |progressive ore washer:1| OR |steam purifier|"
     },
     {
       "name": "How to get sodium and lithium",
@@ -3094,7 +3066,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |LV ore washer| OR |steam purifier|"
+      "requires": "|progressive centrifuge:1| OR (|progressive ore washer:1| AND |progressive pump:1|) OR |steam purifier|"
     },
     {
       "name": "Chlorine, your new best friend",
@@ -3102,7 +3074,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV electrolyser|"
+      "requires": "|progressive electrolyser:1|"
     },
     {
       "name": "Cadmium",
@@ -3110,7 +3082,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV centrifuge| OR |LV thermal centrifuge|"
+      "requires": "|progressive centrifuge:1| OR |progressive thermal centrifuge:1|"
     },
     {
       "name": "Black and decker",
@@ -3126,7 +3098,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV chemical reactor|"
+      "requires": "|progressive chemical reactor:1|"
     },
     {
       "name": "Magnets != magic",
@@ -3134,7 +3106,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV polarizer| AND |LV canner| AND |LV pump|"
+      "requires": "|progressive polarizer:1| AND |progressive canner:1| AND |progressive pump:1|"
     },
     {
       "name": "Basic canner",
@@ -3142,7 +3114,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump|"
+      "requires": "|progressive canner:1| AND |progressive pump:1|"
     },
     {
       "name": "IC2 battery",
@@ -3150,7 +3122,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump| AND |LV piston| AND |LV fluid extractor|"
+      "requires": "|progressive canner:1| AND |progressive pump:1| AND |progressive piston:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Automated sticky resin farmer",
@@ -3158,7 +3130,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump| AND |LV piston| AND |LV fluid extractor|"
+      "requires": "|progressive canner:1| AND |progressive pump:1| AND |progressive piston:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Automated farmer",
@@ -3166,7 +3138,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump| AND |LV piston| AND |LV fluid extractor|"
+      "requires": "|progressive canner:1| AND |progressive pump:1| AND |progressive piston:1| AND |progressive fluid extractor:1|"
     },
     {
       "name": "Electrotine battery",
@@ -3174,7 +3146,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump|"
+      "requires": "|progressive canner:1| AND |progressive pump:1|"
     },
     {
       "name": "Arc furnace",
@@ -3182,7 +3154,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump| AND |LV arc furnace|"
+      "requires": "|progressive canner:1| AND |progressive pump:1| AND |progressive arc furnace:1|"
     },
     {
       "name": "Cheaper annealed production",
@@ -3190,7 +3162,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV canner| AND |LV pump| AND |LV arc furnace| AND (|LV electrolyser| OR |LV centrifuge|)"
+      "requires": "|progressive canner:1| AND |progressive pump:1| AND |progressive arc furnace:1| AND (|progressive electrolyser:1| OR |progressive centrifuge:1|)"
     },
     {
       "name": "Faster steel production",
@@ -3206,7 +3178,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV conveyor|"
+      "requires": "|progressive conveyor:1|"
     },
     {
       "name": "One in a million",
@@ -3222,7 +3194,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|LV conveyor|"
+      "requires": "|progressive conveyor:1|"
     },
     {
       "name": "A new alloy - Cobalt brass",
@@ -3230,7 +3202,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR (|progressive macerator| AND |progressive piston:1|)) AND |progressive conveyor:1|"
     },
     {
       "name": "A truly sharp blade",
@@ -3238,7 +3210,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR (|progressive macerator| AND |progressive piston:1|)) AND |progressive conveyor:1|"
     },
     {
       "name": "Cutting things apart",
@@ -3246,7 +3218,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR (|progressive macerator| AND |progressive piston:1|)) AND |progressive conveyor:1| AND |progressive cutting machine:1|"
     },
     {
       "name": "Diamond spikes",
@@ -3254,7 +3226,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR (|progressive macerator| AND |progressive piston:1|)) AND |progressive conveyor:1| AND |progressive cutting machine:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive lathe:1|"
     },
     {
       "name": "Portable mob spawners...? Cool!",
@@ -3262,7 +3234,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe| AND |LV pump| AND |LV chemical reactor| AND |LV distillery|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR (|progressive macerator| AND |progressive piston:1|)) AND |progressive conveyor:1| AND |progressive cutting machine:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive lathe:1| AND |progressive pump:1| AND |progressive chemical reactor:1| AND |progressive distillery:1|"
     },
     {
       "name": "Vroooooom...",
@@ -3270,7 +3242,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR (|progressive macerator| AND |progressive piston:1|)) AND |progressive conveyor:1| AND |progressive cutting machine:1|"
     },
     {
       "name": "Diamond tanks... Ooo, shiny",
@@ -3278,7 +3250,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |progressive macerator:1|) AND |progressive conveyor:1| AND |progressive cutting machine:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive lathe:1|"
     },
     {
       "name": "Diamond barrel",
@@ -3286,7 +3258,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |progressive macerator:1|) AND |progressive conveyor:1| AND |progressive cutting machine:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive lathe:1|"
     },
     {
       "name": "Personal chunkloading",
@@ -3294,7 +3266,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |progressive macerator:1|) AND |progressive conveyor:1| AND |progressive cutting machine:1|"
     },
     {
       "name": "Akihabra",
@@ -3302,7 +3274,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV robot arm| AND |LV assembler|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |progressive macerator:1|) AND |progressive conveyor:1| AND |progressive cutting machine:1| AND |progressive piston:1| AND |progressive robot arm:1| AND |progressive assembler:1|"
     },
     {
       "name": "Diamond chests.... Ooo, shiny",
@@ -3310,7 +3282,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |LV macerator|) AND |LV conveyor| AND |LV cutting machine| AND |LV piston| AND |LV bending machine| AND |LV lathe|"
+      "requires": "|progressive mining level:7| AND (|steam macerator| OR |steam grinder| OR |progressive macerator:1|) AND |progressive conveyor:1| AND |progressive cutting machine:1| AND |progressive piston:1| AND |progressive bending machine:1| AND |progressive lathe:1|"
     },
     {
       "name": "Wheat Time",

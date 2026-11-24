@@ -1,4 +1,4 @@
-{
+    {
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
@@ -32,23 +32,26 @@
         },
         "Include_The_Green_Revolution_quests":{
             "description": [
-                "Enable the green revolution quest tab, themed around cropsNH",
+              "Enable the green revolution quest tab, themed around cropsNH",
               "Might need to grind towards random crops if enabled",
               "CURRENTLY DOES NOTHING"
             ],
             "type": "Toggle",
-            "default": false
+          "default": false,
+            "hidden": true
         },
-        "Include_LV_Progression":{
-            "description": [
-              "Enable all quests that can be obtained pre MV through normal means",
-              "Be prepared to not have a wiremill for 90% of LV"
-            ],
-            "type": "Toggle",
-            "default": false
-        }
-
-
+       "Last_tier_progression": {
+          "description": [
+            "Enable all quests that can be obtained up to the specified tier",
+            "0: steam",
+            "1: LV",
+            "etc."
+          ],
+          "type": "Range",
+          "default": 0,
+          "range_start": 0,
+          "range_end": 13
+       }
     }
 
 }

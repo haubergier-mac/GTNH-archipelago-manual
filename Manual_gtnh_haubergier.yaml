@@ -86,11 +86,21 @@ Manual_gtnh_haubergier:
     'false': 50
     'true': 0
 
-  Include_LV_Progression:
-    # Enable all quests that can be obtained pre MV through normal means
-    # Be prepared to not have a wiremill for 90% of LV
-    'false': 50
-    'true': 0
+  Last_tier_progression:
+    # Enable all quests that can be obtained up to the specified tier
+    # Only quests up to LV (1) are currently implemented
+    # 0: steam
+    # 1: LV
+    # etc.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 13
+    0: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-13: 0 # random value between 0 and 13
 
   ###########################
   # Item & Location Options #
