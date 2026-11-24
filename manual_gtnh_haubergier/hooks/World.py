@@ -73,7 +73,7 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 
     tier = get_option_value(multiworld, player, "Last_tier_progression")
 
-
+    
     item_config["progressive circuit board"] = min(9, tier + 1)
     item_config["progressive machine hull"] = max(1, tier)
     item_config["progressive motor"] = max(1, tier)
@@ -151,7 +151,6 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
             item_config["progressive coils"] = tier + 2 # extra HSS-S and naquadah alloy coils
     else:
         item_config["progressive coils"] = tier
-
 
     return item_config
 

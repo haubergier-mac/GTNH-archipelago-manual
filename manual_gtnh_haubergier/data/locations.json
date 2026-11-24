@@ -2361,7 +2361,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive sifter:1| AND |progressive chemical reactor:1| AND |progressive distillery:1| AND |progressive pump|:1"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1| AND |progressive sifter:1| AND |progressive chemical reactor:1| AND |progressive distillery:1| AND |progressive pump:1|"
     },
     {
       "name": "Handle resources like a bo$$ #2",
@@ -2441,7 +2441,7 @@
       "category": [
         "Tier 1: LV"
       ],
-      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm|:1"
+      "requires": "|progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|"
     },
     {
       "name": "Void buses",

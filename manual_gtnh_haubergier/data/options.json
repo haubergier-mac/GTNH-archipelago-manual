@@ -37,22 +37,21 @@
               "CURRENTLY DOES NOTHING"
             ],
             "type": "Toggle",
-            "default": false
+          "default": false,
+            "hidden": true
         },
-        "Last_tier_progression":{
-            "description": [
-              "Enable all quests that can be obtained up to the specified tier",
-              "Only quests up to LV (1) are currently implemented",
-              "0: steam",
-              "1: LV",
-              "etc."
-            ],
-            "type": "Range",
-            "range_start": 0,
-            "range_end": 13
-        }
-
-
+       "Last_tier_progression": {
+          "description": [
+            "Enable all quests that can be obtained up to the specified tier",
+            "0: steam",
+            "1: LV",
+            "etc."
+          ],
+          "type": "Range",
+          "default": 0,
+          "range_start": 0,
+          "range_end": 13
+       }
     }
 
 }
