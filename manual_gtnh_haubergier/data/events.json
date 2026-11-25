@@ -17,6 +17,126 @@
     "region": "post BBF"
   },
   {
+    "name": "crop: stone lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: pumpkin| AND |crop: vine| AND |mutation pool: stone| AND |mutation pool: gray|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: andesite lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: diorite lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: white|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: granite lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: red|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: deepslate lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: black| AND |mutation pool: dark| AND |mutation pool: dense|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tuff lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: dark|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: sand lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: yellow|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: clay lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: water|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: nether stone lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: red| AND |mutation pool: nether|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: end stone lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: yellow| AND |mutation pool: alien|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: soul sand lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: brown| AND |mutation pool: danger| AND |mutation pool: oil| AND |mutation pool: nether|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: red granite lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: red|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: black granite lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: dark| AND |mutation pool: black|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: basalt lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: dark| AND |mutation pool: black|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: marble lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: white|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: red mushroom",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: red| AND |mutation pool: mushroom|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: brown mushroom",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: brown| AND |mutation pool: mushroom|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: eyebulb",
+    "category": [ "cropsNH" ],
+    "requires": "((|BBF reached| AND |nether|) OR (|crop: nether stone lily| AND |crop: red tulip|)) AND |mutation pool: red| AND |mutation pool: evil| AND |mutation pool: nether|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: potato",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: root| AND |mutation pool: yellow| AND |mutation pool: food|",
+    "region": "cropsNH base"
+  },
+  {
+    "name": "crop: wheat",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: wheat| AND |mutation pool: yellow| AND |mutation pool: food|",
+    "region": "cropsNH base"
+  },
+  {
     "name": "crop: acacia bonsai",
     "category": [ "cropsNH" ],
     "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: wood|",
@@ -59,39 +179,903 @@
     "region": "cropsNH main"
   },
   {
-    "name": "crop: stone lily",
+    "name": "crop: torchberry",
     "category": [ "cropsNH" ],
-    "requires": "|crop: pumpkin| AND |crop: vine| AND |mutation pool: stone| AND |mutation pool: gray|",
+    "requires": "",
     "region": "cropsNH main"
   },
   {
-    "name": "crop: sand lily",
+    "name": "crop: blackberry",
     "category": [ "cropsNH" ],
-    "requires": "|crop: stone lily| AND |mutation pool: yellow|",
+    "requires": "",
     "region": "cropsNH main"
   },
   {
-    "name": "crop: tuff lily",
+    "name": "crop: blueberry",
     "category": [ "cropsNH" ],
-    "requires": "|crop: stone lily| AND |mutation pool: dark|",
+    "requires": "",
     "region": "cropsNH main"
   },
   {
-    "name": "crop: red granite lily",
+    "name": "crop: huckleberry",
     "category": [ "cropsNH" ],
-    "requires": "|crop: stone lily| AND |mutation pool: red|",
+    "requires": "",
     "region": "cropsNH main"
   },
   {
-    "name": "crop: nether stone lily",
+    "name": "crop: maloberry",
     "category": [ "cropsNH" ],
-    "requires": "|crop: stone lily| AND |mutation pool: red| AND |mutation pool: nether|",
+    "requires": "",
     "region": "cropsNH main"
   },
   {
-    "name": "crop: marble lily",
+    "name": "crop: raspberry",
     "category": [ "cropsNH" ],
-    "requires": "|crop: stone lily| AND |mutation pool: white|",
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: strawberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: bamboo shoot",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: olivia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: sugar cane",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: ivy",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: turnip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: vine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: water lily",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: wild carrot",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: allium",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: azure bluet",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: blue orchid",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: dandelion",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: dayflower",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: orange tulip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: oxeye daisy",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: pink tulip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: poppy",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: purple tulip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: red tulip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: white tulip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: barley",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: carrot",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: pumpkin",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: flax",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: indigo",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: melon",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cactus",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: garlic",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: thornvine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: blue glowshroom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: glowshroom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: green glowshroom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: purple glowshroom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: flowering vine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cotton",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cocoa",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: fertilia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: necrobloom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: zomplant",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: glowflower",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: sticky cane",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: blightberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: duskberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: skyberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: stingberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: moss",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: saguaro cactus",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: sugar beet",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: goldfish",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: inkbloom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: chilly",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cucumber",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: grape",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: lemon",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: onion",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: sapphirum",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tomato",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: canola",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: belladonna",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: glint weed",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: mandrake",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: snowbell",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: water artichoke",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: wolfsbane",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: glowheat",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: salty root",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: spidernip",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tea",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tin oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: glowing coral",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: papyrus",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: corpseplant",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: hemp",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: gaia wart",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: nickelback",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: mana bean",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: nether wart",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: hops",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cinderpearl",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: shimmerleaf",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: aluminium oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: ardite oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cobalt oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: copper oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: essence berry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: gold oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: iron oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: corium",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: bauxia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: coppon",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: egg plant",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: galvania",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: plumbilia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: slimeplant",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: thiosulfine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: redstraw",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: milk wart",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: cassitine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: ferrofern",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: malaxia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: plumbshade",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: bobs-yer-uncle-ranks",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: blazereed",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: trollplant",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: spanish moss",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: garnydinia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: creeperweed",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: ember moss",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: argentia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: coffee",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: lazulia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: thaumium oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: meatrose",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: thauminite oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: void metal oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: oil berry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: rubyne",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: evil ore",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: auronia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: silviscus",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: liveroot",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tearstalks",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: withereed",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: knightly oreberry",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: micadia",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: titania",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: god of thunder",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: enderbloom",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: steeleafranks",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: platina",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: pyrolusium",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: scheelinium",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: reactoria",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: iridine",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: osmianth",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: star wart",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: stargatium",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: transformium",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: diareed",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: space flower",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: magical nightshade",
+    "category": [ "cropsNH" ],
+    "requires": "",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: primordial berry",
+    "category": [ "cropsNH" ],
+    "requires": "",
     "region": "cropsNH main"
   }
 ]
