@@ -15,5 +15,83 @@
     "category": [ "cropsNH" ],
     "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}",
     "region": "post BBF"
+  },
+  {
+    "name": "crop: acacia bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: birch bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: white| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: dark oak bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: brown| AND |mutation pool: dark| AND |mutation pool: food| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: jungle bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: brown| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: oak bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: brown| AND |mutation pool: food| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: rubber bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: sticky| AND |mutation pool: tree| AND |mutation pool: brown| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: spruce bonsai",
+    "category": [ "cropsNH" ],
+    "requires": "|mutation pool: tree| AND |mutation pool: brown| AND |mutation pool: wood|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: stone lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: pumpkin| AND |crop: vine| AND |mutation pool: stone| AND |mutation pool: gray|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: sand lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: yellow|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: tuff lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: dark|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: red granite lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: red|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: nether stone lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: red| AND |mutation pool: nether|",
+    "region": "cropsNH main"
+  },
+  {
+    "name": "crop: marble lily",
+    "category": [ "cropsNH" ],
+    "requires": "|crop: stone lily| AND |mutation pool: white|",
+    "region": "cropsNH main"
   }
 ]

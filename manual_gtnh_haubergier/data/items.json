@@ -436,6 +436,600 @@
     },
     {
       "count": 1,
+      "name": "mutation pool: blue",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: black",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: brown",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: gray",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: green",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: orange",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: purple",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: red",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: white",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: yellow",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: alien",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: nether",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: twillight forest",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: bean",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: berry",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: cactus",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: bush",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: flower",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: mushroom",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: ore berry",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: reed",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: root",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: stem",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: tree",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: tulip",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: wheat",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: climbable",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: crystal",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: danger",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: dark",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: dense",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: evil",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: fire",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: leafy",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: light",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: metal",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: poison",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: shiny",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: sticky",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: tendrilly",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: undead",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: void",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: water",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: wood",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: addictive",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: blaze",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: chicken",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: coal",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: copper",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: cotton",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: cow",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: fish",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: food",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: gold",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: healing",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: iron",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: lead",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: magic",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: oil",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: ingredient",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: saltpeter",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: silk",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: silver",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: stone",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: sulfur",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "mutation pool: tin",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "small coal boiler",
       "category": [
         "Steam machines",

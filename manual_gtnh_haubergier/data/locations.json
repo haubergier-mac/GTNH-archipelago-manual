@@ -3570,7 +3570,7 @@
       "category": [
         "The green revolution"
       ],
-      "requires": ""
+      "requires": "|mutation pool: food| AND |mutation pool: root| AND |mutation pool: yellow|"
     },
     {
       "name": "Carrot stock",
@@ -3578,7 +3578,7 @@
       "category": [
         "The green revolution"
       ],
-      "requires": ""
+      "requires": "|mutation pool: food| AND |mutation pool: ingredient| AND |mutation pool: root| AND |mutation pool: orange|"
     },
     {
       "name": "Your first deterministic cross",
@@ -3586,7 +3586,7 @@
       "category": [
         "The green revolution"
       ],
-      "requires": ""
+      "requires": "|mutation pool: food| AND |mutation pool: ingredient| AND |mutation pool: root| AND |mutation pool: reed| AND |mutation pool: orange| AND |mutation pool: yellow| AND |mutation pool: green|"
     },
     {
       "name": "Weeds",
@@ -3634,7 +3634,8 @@
       "category": [
         "The green revolution"
       ],
-      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens| AND ((|mutation pool: food| AND |mutation pool: ingredient| AND |mutation pool: root| AND |mutation pool: orange|) OR (|mutation pool: food| AND |mutation pool: root| AND |mutation pool: yellow|) OR (|mutation pool: food| AND |mutation pool: reed| AND |mutation pool: green|))",
+      "hint_entrance": "Available when the plant lens can be made and when either potatoes, carrots, or sugarcane can be planted"
     },
     {
       "name": "Taking pools seriously",
@@ -3646,19 +3647,44 @@
     },
     {
       "name": "Stone from the soil",
-      "region": "cropsNH base",
+      "region": "cropsNH main",
       "category": [
         "The green revolution"
       ],
-      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+      "requires": ""
     },
     {
       "name": "Mutation titration",
-      "region": "cropsNH base",
+      "region": "cropsNH main",
       "category": [
         "The green revolution"
       ],
-      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+      "requires": ""
+    },
+    {
+      "name": "Controlled breeding",
+      "region": "cropsNH main",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Genus Lilium",
+      "region": "cropsNH main",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Basic lilies",
+      "region": "cropsNH main",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "",
+      "hint_entrance": "Should all be very high change from breeding 2 stone lilies together"
     },
     {
       "name": "wet dirt armor?",

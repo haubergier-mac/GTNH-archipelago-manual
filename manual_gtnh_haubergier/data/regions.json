@@ -136,8 +136,8 @@
     "connects_to": [
       "cropsNH LV"
     ],
-    "requires": "|cropsNH logic unlock|"
-  },
+    "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens| AND |mutation pool: food| AND |mutation pool: stem| AND |mutation pool: ingredient| AND |mutation pool: root| AND |mutation pool: reed| AND |mutation pool: stone| AND |mutation pool: climbable| AND |mutation pool: tendrilly| AND |mutation pool: orange| AND |mutation pool: yellow| AND |mutation pool: green| AND |mutation pool: gray|"
+  }, 
   "cropsNH LV": {
     "connects_to": [],
     "requires": "{YamlCompare(Last_tier_progression >= 1)}"
