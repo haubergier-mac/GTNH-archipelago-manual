@@ -101,7 +101,7 @@
     },
     {
       "count": 1,
-      "name": "Iron ingot x16",
+      "name": "Iron ingot x32",
       "category": [
         "/give items"
       ],
@@ -395,6 +395,42 @@
       "name": "progressive mining level",
       "category": [
         "base minecraft mechanics"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "spade",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "plant lens",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "spade",
+      "category": [
+        "cropsNH",
+        "CropsNH"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "watering can",
+      "category": [
+        "cropsNH",
+        "CropsNH"
       ],
       "progression": true
     },

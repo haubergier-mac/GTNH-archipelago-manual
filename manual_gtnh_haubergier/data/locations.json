@@ -3301,6 +3301,14 @@
       "requires": ""
     },
     {
+      "name": "Juice",
+      "region": "wood tools",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": "|soft mallet|"
+    },
+    {
       "name": "Floury flurry",
       "region": "mortar unlock",
       "category": [
@@ -3429,6 +3437,14 @@
       "requires": ""
     },
     {
+      "name": "Hearty breakfast",
+      "region": "pams cooking",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
       "name": "Just like mom used to make",
       "region": "pams cooking",
       "category": [
@@ -3467,6 +3483,182 @@
         "Feeding yourself"
       ],
       "requires": ""
+    },
+    {
+      "name": "Sugarcanes",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sugar: the gathering",
+      "region": "mortar unlock",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Wasps honey",
+      "region": "nether",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Honey for sugar",
+      "region": "nether",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Cooking for blockheads",
+      "region": "post compressor",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ice, ice, baby",
+      "region": "LV start",
+      "category": [
+        "Feeding yourself"
+      ],
+      "requires": "|progressive piston:1| AND |progressive bending machine:1| AND |progressive forming press:1|"
+    },
+    {
+      "name": "A green revolution",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crop sticks",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Vanilla agriculture",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Simple propagation",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Potato stock",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Carrot stock",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Your first deterministic cross",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Weeds",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tools of the trade 1 - Less dirty hands",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "|BBF reached| AND |spade|"
+    },
+    {
+      "name": "Tools of the trade 2 - Mendelian identification",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+    },
+    {
+      "name": "Tools of the trade 3 - Feeding(?) your crops",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |watering can|"
+    },
+    {
+      "name": "Tools of the trade 4 - Minimizing crop-related injuries",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "|rubber reached|"
+    },
+    {
+      "name": "Last universal common seed",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+    },
+    {
+      "name": "Taking pools seriously",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+    },
+    {
+      "name": "Stone from the soil",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
+    },
+    {
+      "name": "Mutation titration",
+      "region": "cropsNH base",
+      "category": [
+        "The green revolution"
+      ],
+      "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens|"
     },
     {
       "name": "wet dirt armor?",

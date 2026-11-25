@@ -3,5 +3,17 @@
     "name": "cropsNH logic unlock",
     "category": [ "cropsNH" ],
     "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}"
+  },
+  {
+    "name": "rubber reached",
+    "category": [ "cropsNH" ],
+    "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}",
+    "region": "rubber"
+  },
+  {
+    "name": "BBF reached",
+    "category": [ "cropsNH" ],
+    "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}",
+    "region": "post BBF"
   }
 ]

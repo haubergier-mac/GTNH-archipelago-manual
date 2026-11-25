@@ -22,23 +22,6 @@
         }
     },
     "user": {
-        "Include_helpful_items":{
-            "description": [
-              "Add useful items in the pool that are normally made later in progression or rare lootbag drops",
-              "Includes nature's compass, reinforced spade, rare tinkers weapons from lootbags and more"
-            ],
-            "type": "Toggle",
-            "default": false
-        },
-        "Include_The_Green_Revolution_quests":{
-            "description": [
-              "Enable the green revolution quest tab, themed around cropsNH",
-              "Might need to grind towards random crops if enabled",
-              "CURRENTLY DOES NOTHING"
-            ],
-            "type": "Toggle",
-          "default": false,
-            "hidden": true
         },
        "Last_tier_progression": {
           "description": [
@@ -51,7 +34,93 @@
           "default": 0,
           "range_start": 0,
           "range_end": 13
-       }
+       },
+        "Include_helpful_items":{
+            "description": [
+              "Add useful items in the pool that are normally made later in progression or rare lootbag drops",
+              "Includes nature's compass, reinforced spade, rare tinkers weapons from lootbags and more"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "Include_The_Green_Revolution_quests":{
+            "description": [
+              "Enable the green revolution quest tab, themed around cropsNH",
+              "Might need to grind towards random crops if enabled",
+              "The 'last universal common seed' quest requires having the plant lens unlocked to not fully rely on rng",
+              "WARNING: has a high amount of quests locked behind having a max stat crop"
+            ],
+            "type": "Toggle",
+          "default": false,
+            "hidden": true
+        },
+        "Include_Early_Thaumcraft":{
+            "description": [
+              "Add quests from the Novice Thaumaturgy tab. Additionally, any quest that requires thaumcraft usage will be disabled",
+              "Significant thaumcraft items for the quest tab will also be added"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        },
+        "Include_Mid_Thaumcraft":{
+            "description": [
+              "Add quests from the Adept Thaumaturgy tab."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        },
+        "Include_Late_Thaumcraft":{
+            "description": [
+              "Add quests from the Kaaami, Haaaami, ... HA! tab."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        },
+        "Include_Foci_Thaumcraft":{
+            "description": [
+              "Add quests from the Focus on wand foci & EMT tab."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        },
+        "Include_Botania":{
+            "description": [
+              "Add quests from the Flower Power tab.",
+              "Significant items for botania will also be added"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        },
+        "Include_Witchery":{
+            "description": [
+              "Add quests from the Look to the edges tab.",
+              "Significant items for witchery will also be added"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        },
+        "Include_Blood_Magic":{
+            "description": [
+              "Add quests from the Paying the highest price tab."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        }
+        ,
+        "Include_Killsanity":{
+            "description": [
+              "Add quests from the Kill all the things tab."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "hidden": true
+        }
+       
     }
-
-}
