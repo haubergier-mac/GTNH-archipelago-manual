@@ -48,3 +48,6 @@ If a quest is locked and an appropriate item for it isn't listed here, assume yo
   </ul>
   <li>progressive [<em>tiered multiblock component</em>]</li>
 </ul>
+
+<h2>AI Disclosure</h2>
+No AI was used at any point in the making of this apworld, nor will it be used in the future.
