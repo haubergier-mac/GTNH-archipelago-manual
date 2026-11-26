@@ -280,6 +280,23 @@
     },
     {
       "count": 1,
+      "name": "nether",
+      "category": [
+        "dimensions"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "twillight forest",
+      "category": [
+        "dimensions",
+        "LV_Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "soft mallet",
       "category": [
         "GT items"
@@ -1162,14 +1179,6 @@
       "category": [
         "unclassed machines",
         "multiblocks"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "nether",
-      "category": [
-        "base minecraft mechanics"
       ],
       "progression": true
     },

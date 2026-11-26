@@ -6,21 +6,27 @@
   },
   {
     "name": "rubber reached",
-    "category": [ "cropsNH" ],
-    "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}",
+    "category": [],
+    "requires": "",
     "region": "rubber"
   },
   {
     "name": "BBF reached",
-    "category": [ "cropsNH" ],
-    "requires": "{YamlEnabled(Include_The_Green_Revolution_quests)}",
+    "category": [],
+    "requires": "",
+    "region": "post BBF"
+  },
+  {
+    "name": "twillight forest reached",
+    "category": [],
+    "requires": "|twillight forest| AND |progressive piston:1| AND |progressive conveyor:1| AND |progressive assembler:1| AND |progressive robot arm:1|",
     "region": "post BBF"
   },
   {
     "name": "crop: stone lily",
     "category": [ "cropsNH" ],
     "requires": "|crop: pumpkin| AND |crop: vine| AND |mutation pool: stone| AND |mutation pool: gray|",
-    "region": "cropsNH main"
+    "region": "cropsNH base"
   },
   {
     "name": "crop: andesite lily",
@@ -181,271 +187,271 @@
   {
     "name": "crop: torchberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: yellow| AND |mutation pool: twillight forest| AND |mutation pool: light| AND (|twillight forest reached| OR (|crop: glowflower| AND |crop: berry|))",
     "region": "cropsNH main"
   },
   {
     "name": "crop: blackberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: black|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: blueberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: blue|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: huckleberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: purple| AND |mutation pool: leafy| AND |crop: blackberry| AND |crop: grape|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: maloberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: yellow|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: raspberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: red|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: strawberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: red|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: bamboo shoot",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: danger| AND |mutation pool: leafy| AND |mutation pool: stem|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: olivia",
-    "category": [ "cropsNH" ],
+    "category": [ "cropsNH", "MV_Progression"],
     "requires": "",
-    "region": "cropsNH main"
+    "region": "cropsNH MV"
   },
   {
     "name": "crop: sugar cane",
     "category": [ "cropsNH" ],
-    "requires": "",
-    "region": "cropsNH main"
+    "requires": "|mutation pool: reed| AND |mutation pool: green| AND ||mutation pool: food|",
+    "region": "cropsNH base"
   },
   {
     "name": "crop: ivy",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: climbable| AND |mutation pool: green| AND |mutation pool: tendrilly| AND |mutation pool: danger| AND |mutation pool: poison| AND |mutation pool: flower| AND |crop: vine| AND |crop: spruce bonsai|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: turnip",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: purple|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: vine",
     "category": [ "cropsNH" ],
-    "requires": "",
-    "region": "cropsNH main"
+    "requires": "|mutation pool: climbable| AND |mutation pool: tendrilly|",
+    "region": "cropsNH base"
   },
   {
     "name": "crop: water lily",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: water|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: wild carrot",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: white|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: allium",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: purple|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: azure bluet",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: white|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: blue orchid",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: blue|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: dandelion",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: yellow|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: dayflower",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: addictive| AND |crop: azure bluet| AND |crop: blue orchid|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: orange tulip",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: tulip|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: oxeye daisy",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: white|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: pink tulip",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: red| AND |mutation pool: tulip|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: poppy",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: red|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: purple tulip",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: purple| AND |mutation pool: tulip|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: red tulip",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: red| AND |mutation pool: tulip|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: white tulip",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: white| AND |mutation pool: tulip",
     "region": "cropsNH main"
   },
   {
     "name": "crop: barley",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: wheat|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: carrot",
     "category": [ "cropsNH" ],
-    "requires": "",
-    "region": "cropsNH main"
+    "requires": "|mutation pool: root| AND |mutation pool: orange| AND |mutation pool: ingredient| AND |mutation pool: food|",
+    "region": "cropsNH base"
   },
   {
     "name": "crop: pumpkin",
     "category": [ "cropsNH" ],
-    "requires": "",
-    "region": "cropsNH main"
+    "requires": "|mutation pool: orange| AND |mutation pool: stem| AND |mutation pool: food|",
+    "region": "cropsNH base"
   },
   {
     "name": "crop: flax",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: wheat| AND |mutation pool: addictive| AND |mutation pool: silk| AND |mutation pool: blue|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: indigo",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: blue| AND |mutation pool: flower| AND |crop: dayflower| AND |crop: blue orchid|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: melon",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: stem| AND |mutation pool: healing|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: cactus",
     "category": [ "cropsNH" ],
-    "requires": "",
-    "region": "cropsNH main"
+    "requires": "|mutation pool: green| AND |mutation pool: danger| AND |mutation pool: cactus|",
+    "region": "cropsNH base"
   },
   {
     "name": "crop: garlic",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: white|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: thornvine",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: climbable| AND |mutation pool: yellow| AND |mutation pool: tendrilly| AND |mutation pool: danger| AND |mutation pool: light| AND |mutation pool: nether| AND ((|crop: vine| AND |crop: cactus|) OR (|BBF reached| AND |nether|)",
     "region": "cropsNH main"
   },
   {
     "name": "crop: blue glowshroom",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "((|crop: blue orchid| AND |crop: glowflower|) OR (|BBF reached| AND |nether|) AND |mutation pool: light| AND |mutation pool: blue| AND |mutation pool: mushroom| AND |mutation pool: nether|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: glowshroom",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "(((|crop: purple glowshroom| OR |crop: blue glowshroom|) AND |crop: green glowshroom|) OR (|BBF reached| AND |nether|) AND |mutation pool: light| AND |mutation pool: green| AND |mutation pool: mushroom| AND |mutation pool: nether|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: green glowshroom",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "((|crop: cactus| AND |crop: glowflower|) OR (|BBF reached| AND |nether|) AND |mutation pool: light| AND |mutation pool: green| AND |mutation pool: mushroom| AND |mutation pool: nether|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: purple glowshroom",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "((|crop: indigo| AND |crop: glowflower|) OR (|BBF reached| AND |nether|) AND |mutation pool: light| AND |mutation pool: purple| AND |mutation pool: mushroom| AND |mutation pool: nether|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: flowering vine",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: climbable| AND |mutation pool: tendrilly| AND |mutation pool: flower| AND |crop: oxeye daisy| AND |crop: ivy|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: cotton",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: white| AND |mutation pool: tendrilly| AND |mutation pool: cotton| AND |mutation pool: silk|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: cocoa",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: tree| AND |mutation pool: addictive| AND |mutation pool: bean| AND |mutation pool: brown| AND |mutation pool: leafy|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: fertilia",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: brown| AND |mutation pool: healing| AND |mutation pool: mushroom| AND |crop: corium| AND |crop: corpseplant|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: necrobloom",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: danger| AND |mutation pool: poison| AND |mutation pool: purple| AND |mutation pool: flower| AND |crop: spidernip| AND |crop: purple tulip|",
     "region": "cropsNH main"
   },
   {

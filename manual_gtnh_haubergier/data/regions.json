@@ -140,14 +140,22 @@
   }, 
   "cropsNH LV": {
     "connects_to": [],
-    "requires": "{YamlCompare(Last_tier_progression >= 1)}"
+    "requires": ""
+  },
+  "cropsNH MV": {
+    "connects_to": [],
+    "requires": "|progressive crop breeder:2| AND |progressive robot arm:2| AND |progressive motor:2| AND |progressive piston:2|"
   },
   "LV start": {
     "connects_to": [ "post EBF" ],
     "requires": "|progressive motor:1| AND |electronic circuit| AND |progressive machine hull:1| AND |progressive steam turbine:1| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1| AND {YamlCompare(Last_tier_progression >= 1)}"
   },
   "post EBF": {
-    "connects_to": [],
+    "connects_to": ["MV start"],
     "requires": "|progressive conveyor:1| AND |progressive robot arm:1| AND |progressive piston:1| AND |progressive assembler:1| AND |progressive fluid extractor:1| AND |progressive energy hatch:1| AND |progressive coils:1| AND |progressive bending machine:1| AND |progressive forming press:1| AND (|progressive mixer:1| OR |steam blender|) AND |progressive pump:1| AND |progressive distillery:1| AND |EBF| AND |crowbar| AND |soldering iron|"
+  },
+  "MV start": {
+    "connects_to": ["cropsNH MV"],
+    "requires": ""
   }
 }

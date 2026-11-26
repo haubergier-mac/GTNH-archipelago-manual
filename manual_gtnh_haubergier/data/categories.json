@@ -9,5 +9,41 @@
   },
   "LV_Progression": {
     "hidden": true
+  },
+  "MV_Progression": {
+    "hidden": true
+  },
+  "HV_Progression": {
+    "hidden": true
+  },
+  "EV_Progression": {
+    "hidden": true
+  },
+  "IV_Progression": {
+    "hidden": true
+  },
+  "LuV_Progression": {
+    "hidden": true
+  },
+  "ZPM_Progression": {
+    "hidden": true
+  },
+  "UV_Progression": {
+    "hidden": true
+  },
+  "UHV_Progression": {
+    "hidden": true
+  },
+  "UEV_Progression": {
+    "hidden": true
+  },
+  "UIV_Progression": {
+    "hidden": true
+  },
+  "UMV_Progression": {
+    "hidden": true
+  },
+  "UXV_Progression": {
+    "hidden": true
   }
 }
