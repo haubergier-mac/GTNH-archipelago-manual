@@ -234,9 +234,9 @@
   },
   {
     "name": "crop: olivia",
-    "category": [ "cropsNH", "MV_Progression"],
+    "category": [ "cropsNH"],
     "requires": "",
-    "region": "cropsNH MV"
+    "region": "cropsNH main"
   },
   {
     "name": "crop: sugar cane",
@@ -457,55 +457,55 @@
   {
     "name": "crop: zomplant",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: brown| AND |mutation pool: evil| AND |mutation pool: food| AND |mutation pool: poison| AND |mutation pool: undead|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: glowflower",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: blue| AND |mutation pool: ingredient| AND |mutation pool:light| AND |mutation pool: nether| AND |mutation pool: shiny|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: sticky cane",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: green| AND |mutation pool: reed| AND |mutation pool: sticky|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: blightberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: addictive| AND |mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: danger| AND |mutation pool: green| AND |mutation pool: healing| AND |mutation pool: ingredient| AND |mutation pool: nether| AND |mutation pool: poison|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: duskberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: addictive| AND |mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: danger| AND |mutation pool: gray| AND |mutation pool: ingredient| AND |mutation pool: nether| AND |mutation pool: poison|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: skyberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: addictive| AND |mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: danger| AND |mutation pool: blue| AND |mutation pool: ingredient| AND |mutation pool: nether| AND |mutation pool: poison|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: stingberry",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: addictive| AND |mutation pool: berry| AND |mutation pool: bush| AND |mutation pool: danger| AND |mutation pool: brown| AND |mutation pool: ingredient| AND |mutation pool: nether| AND |mutation pool: poison|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: moss",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: climbable| AND |mutation pool: green| AND |mutation pool: tendrilly| AND |mutation pool: twillight forest| AND |crop: flowering vine| AND |crop: ivy|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: saguaro cactus",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|crop: cactus| AND |crop: food|",
     "region": "cropsNH main"
   },
   {
@@ -517,109 +517,109 @@
   {
     "name": "crop: goldfish",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: addictive| AND |mutation pool: danger| AND |mutation pool: fish| AND |mutation pool: nether| AND |mutation pool: orange| AND |mutation pool: stem| AND |mutation pool: water| AND |crop: mandrake| AND |crop: water artichoke| AND |crop: water lily|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: inkbloom",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: black| AND |mutation pool: flower| AND |mutation pool: water| AND |crop: blackberry| AND |crop: goldfish|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: chilly",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: fire| AND |mutation pool: red|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: cucumber",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: green| AND |mutation pool: tendrilly|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: grape",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: climbable| AND |mutation pool: leafy| AND |mutation pool: purple| AND |mutation pool: tendrilly|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: lemon",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: leafy| AND |mutation pool: tree| AND |mutation pool: yellow|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: onion",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: brown| AND |mutation pool: root|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: sapphirum",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: blue| AND |mutation pool: crystal| AND |mutation pool: shiny| AND |crop: evil ore| AND |crop: lazulia|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: tomato",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: leafy| AND |mutation pool: red| AND |mutation pool: tendrilly|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: canola",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: oil| AND |mutation pool: wheat| AND |mutation pool: yellow| AND |crop: oxeye daisy| AND |crop: wheat|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: belladonna",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: poison| AND |mutation pool: purple|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: glint weed",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: magic| AND |mutation pool: orange| AND |crop: ember moss| AND |crop: vine|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: mandrake",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: brown| AND |mutation pool: danger| AND |mutation pool: evil| AND |mutation pool: flower| AND |mutation pool: magic| AND |crop: belladonna| AND |crop: carrot|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: snowbell",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: poison| AND |mutation pool: white|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: water artichoke",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: blue| AND |mutation pool: flower| AND |mutation pool: water|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: wolfsbane",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: flower| AND |mutation pool: poison| AND |mutation pool: purple|",
     "region": "cropsNH main"
   },
   {
     "name": "crop: glowheat",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: crystal| AND |mutation pool: light| AND |mutation pool: nether| AND |mutation pool: shiny| AND |mutation pool: wheat| AND |mutation pool: yellow| AND |crop: glowflower| AND |crop: wheat",
     "region": "cropsNH main"
   },
   {
     "name": "crop: salty root",
     "category": [ "cropsNH" ],
-    "requires": "",
+    "requires": "|mutation pool: gray| AND |mutation pool: saltpeter| AND |crop: canola| AND",
     "region": "cropsNH main"
   },
   {
