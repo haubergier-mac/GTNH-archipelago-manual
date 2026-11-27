@@ -133,21 +133,19 @@
     "requires": "|cropsNH logic unlock|"
   },
   "cropsNH main": {
-    "connects_to": [
-      "cropsNH LV"
-    ],
-    "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens| AND |mutation pool: food| AND |mutation pool: stem| AND |mutation pool: ingredient| AND |mutation pool: root| AND |mutation pool: reed| AND |mutation pool: stone| AND |mutation pool: climbable| AND |mutation pool: tendrilly| AND |mutation pool: orange| AND |mutation pool: yellow| AND |mutation pool: green| AND |mutation pool: gray|"
+    "connects_to": [],
+    "requires": "((|smeltery| AND |progressive mining level:4|) OR |BBF reached|) AND |plant lens| AND |crop: potato| AND |crop: carrot| AND |crop: sugar cane| AND |crop: stone lily|"
   }, 
   "cropsNH LV": {
     "connects_to": [],
-    "requires": ""
+    "requires": "|cropsNH logic unlock|"
   },
-  "cropsNH MV": {
+  "cropsNH breeder": {
     "connects_to": [],
-    "requires": "|progressive crop breeder:2| AND |progressive robot arm:2| AND |progressive motor:2| AND |progressive piston:2|"
+    "requires": "|progressive crop breeder:2| AND |progressive robot arm:2| AND |progressive motor:2| AND |progressive piston:2| AND |progressive mixer:2| AND |cropsNH logic unlock|"
   },
   "LV start": {
-    "connects_to": [ "post EBF" ],
+    "connects_to": [ "post EBF", "cropsNH LV" ],
     "requires": "|progressive motor:1| AND |electronic circuit| AND |progressive machine hull:1| AND |progressive steam turbine:1| AND |resistors| AND |vacuum tubes| AND |progressive circuit board:1| AND {YamlCompare(Last_tier_progression >= 1)}"
   },
   "post EBF": {
@@ -155,7 +153,7 @@
     "requires": "|progressive conveyor:1| AND |progressive robot arm:1| AND |progressive piston:1| AND |progressive assembler:1| AND |progressive fluid extractor:1| AND |progressive energy hatch:1| AND |progressive coils:1| AND |progressive bending machine:1| AND |progressive forming press:1| AND (|progressive mixer:1| OR |steam blender|) AND |progressive pump:1| AND |progressive distillery:1| AND |EBF| AND |crowbar| AND |soldering iron|"
   },
   "MV start": {
-    "connects_to": ["cropsNH MV"],
+    "connects_to": ["cropsNH breeder"],
     "requires": ""
   }
 }
